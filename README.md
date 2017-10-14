@@ -73,6 +73,25 @@ Serwis, który ułatwia zestawienie dedykowanego połączenia pomiędzy serwerow
 
 ### Azure App Service
 
+#### Description
+
+#### Similar Services
+
+#### Important Links
+
+#### Tools + Repos + Labs
+
+- [Microsoft/WingtipSaaS](https://github.com/Microsoft/WingtipSaaS) - A sample SaaS application and associated tutorials, built on Azure App Service and Azure SQL Database.
+
+#### Price
+
+#### Video
+
+#### Important
+
+#### History
+
+
 ## DATABASES 
 
 ### Azure SQL Database
