@@ -226,7 +226,17 @@ A web service that lets you run code without provisioning or managing servers. Y
 #### Important
 #### History
 
+## MIGRATION
+
+### AWS Migration Hub
+### AWS Application Discovery Service
 ### AWS Database Migration Service
+AWS Schema Conversion Tool
+### AWS Server Migration Service
+
+## NETWORKING
+
+### Amazon VPC
 #### Description
 #### Similar Services
 #### Important Links
@@ -236,9 +246,37 @@ A web service that lets you run code without provisioning or managing servers. Y
 #### Important
 #### History
 
-## NETWORKING
-### AWS Direct Connect
+### Amazon CloudFront
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
 
+### Amazon Route 53
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### Elastic Load Balancing
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### AWS Direct Connect
 #### Description
 
 A web service that simplifies establishing a dedicated network connection from your premises to AWS. [[source](http://docs.aws.amazon.com/general/latest/gr/glos-chap.html)]
@@ -300,6 +338,80 @@ A web service that simplifies establishing a dedicated network connection from y
 - 2017.02.13 - [AWS Direct Connect announces support for Link Aggregation](https://aws.amazon.com/about-aws/whats-new/2017/02/aws-direct-connect-announces-support-for-link-aggregation/)
 - 2011.08.03 - [Announcing AWS Direct Connect](https://aws.amazon.com/about-aws/whats-new/2011/08/03/Announcing-AWS-Direct-Connect/)
 
+## DEVELOPER TOOLS
+
+### AWS CodeStar
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### AWS CodeCommit
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### AWS CodeBuild
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### AWS CodeDeploy
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### AWS CodePipeline
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### AWS X-Ray
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+## MANAGEMENT
+
+### Amazon CloudWatch
+### Amazon EC2 Systems Manager
+### AWS CloudFormation
+### AWS CloudTrail
+### AWS Config
+### AWS OpsWorks
+### AWS Service Catalog
+### AWS Trusted Advisor
+### AWS Personal Health Dashboard
+### AWS Managed Services
 
 ## SECURITY + IDENTITY + COMPLIANCE
 
