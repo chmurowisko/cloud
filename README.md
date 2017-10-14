@@ -50,18 +50,17 @@ Serwis, który ułatwia zestawienie dedykowanego połączenia pomiędzy serwerow
 
 #### Historia
 
-- 2017.10.10 - [Now you can configure Amazon side private Autonomous System Number for your Virtual Private Gateway](https://aws.amazon.com/about-aws/whats-new/2017/10/now-you-can-configure-amazon-side-private-autonomous-system-number-for-your-virtual-private-gateway/)
+- 2017.10.10 - [Now you can configure Amazon side private ASN for your Virtual Private Gateway](https://aws.amazon.com/about-aws/whats-new/2017/10/now-you-can-configure-amazon-side-private-autonomous-system-number-for-your-virtual-private-gateway/)
 - 2017.09.12 - [Announcing New AWS Direct Connect Location in Houston, TX](https://aws.amazon.com/about-aws/whats-new/2017/)
 - 2017.08.31 - [Announcing New AWS Direct Connect Location in Boston, MA](https://aws.amazon.com/about-aws/whats-new/2017/08/announcing-new-aws-direct-connect-location-in-boston-ma/)
-- 2017.07.29 - AWS Direct Connect now provides Amazon CloudWatch Monitoring - https://aws.amazon.com/about-aws/whats-new/2017/06/aws-direct-connect-now-provides-amazon-cloudwatch-monitoring/
-- 2017.06.27 - Announcing New AWS Direct Connect Locations in Kuala Lumpur and Seoul - https://aws.amazon.com/about-aws/whats-new/2017/06/announcing-new-aws-direct-connect-locations-in-kuala-lumpur-and-seoul/
-- 2017.05.31 - Announcing New AWS Direct Connect Locations in Atlanta, Columbus and Toronto - https://aws.amazon.com/about-aws/whats-new/2017/05/announcing-new-aws-direct-connect-locations-in-atlanta-columbus-and-toronto/
-- 2017.05.23 - Announcing New Direct Connect Locations in Marseille, France and Warsaw, Poland - https://aws.amazon.com/about-aws/whats-new/2017/05/announcing-new-direct-connect-locations-in-marseille-france-and-warsaw-poland/
-- 2017.05.21 - Announcing New Direct Connect Locations in Philadelphia, PA and Newark, NJ - https://aws.amazon.com/about-aws/whats-new/2017/05/announcing-new-direct-connect-locations-in-philadelphia-pa-and-newark-nj/
-- 2017.03.28 - Announcing New Direct Connect Locations in Munich, Prague, Berlin, and Zurich - https://aws.amazon.com/about-aws/whats-new/2017/03/announcing-new-aws-direct-connect-location-in-munich-prague-berlin-zurich/
-- 2017.03.10 - AWS Direct Connect joins growing list of HIPAA-eligible services from AWS! - https://aws.amazon.com/about-aws/whats-new/2017/03/aws-direct-connect-joins-growing-list-of-hipaa-eligible-services-from-aws/
-- 2017.03.08 - Announcing New Direct Connect Location in Vienna - https://aws.amazon.com/about-aws/whats-new/2017/03/announcing-new-aws-direct-connect-location-in-vienna/
-- 2017.02.28 - AWS Direct Connect enables Link Aggregation Group for additional AWS regions - https://aws.amazon.com/about-aws/whats-new/2017/02/aws-direct-connect-enables-link-aggregation-group-for-additional-aws-regions/
-- 2017.02.13 - AWS Direct Connect announces support for Link Aggregation - https://aws.amazon.com/about-aws/whats-new/2017/02/aws-direct-connect-announces-support-for-link-aggregation/
-- 2011.08.03 - Announcing AWS Direct Connect
- - https://aws.amazon.com/about-aws/whats-new/2011/08/03/Announcing-AWS-Direct-Connect/
+- 2017.07.29 - [AWS Direct Connect now provides Amazon CloudWatch Monitoring](https://aws.amazon.com/about-aws/whats-new/2017/06/aws-direct-connect-now-provides-amazon-cloudwatch-monitoring/)
+- 2017.06.27 - [Announcing New AWS Direct Connect Locations in Kuala Lumpur and Seoul](https://aws.amazon.com/about-aws/whats-new/2017/06/announcing-new-aws-direct-connect-locations-in-kuala-lumpur-and-seoul/)
+- 2017.05.31 - [Announcing New AWS Direct Connect Locations in Atlanta, Columbus and Toronto](https://aws.amazon.com/about-aws/whats-new/2017/05/announcing-new-aws-direct-connect-locations-in-atlanta-columbus-and-toronto/)
+- 2017.05.23 - [Announcing New Direct Connect Locations in Marseille, France and Warsaw, Poland](https://aws.amazon.com/about-aws/whats-new/2017/05/announcing-new-direct-connect-locations-in-marseille-france-and-warsaw-poland/)
+- 2017.05.21 - [Announcing New Direct Connect Locations in Philadelphia, PA and Newark, NJ](https://aws.amazon.com/about-aws/whats-new/2017/05/announcing-new-direct-connect-locations-in-philadelphia-pa-and-newark-nj/)
+- 2017.03.28 - [Announcing New Direct Connect Locations in Munich, Prague, Berlin, and Zurich](https://aws.amazon.com/about-aws/whats-new/2017/03/announcing-new-aws-direct-connect-location-in-munich-prague-berlin-zurich/)
+- 2017.03.10 - [AWS Direct Connect joins growing list of HIPAA-eligible services from AWS!](https://aws.amazon.com/about-aws/whats-new/2017/03/aws-direct-connect-joins-growing-list-of-hipaa-eligible-services-from-aws/)
+- 2017.03.08 - [Announcing New Direct Connect Location in Vienna](https://aws.amazon.com/about-aws/whats-new/2017/03/announcing-new-aws-direct-connect-location-in-vienna/)
+- 2017.02.28 - [AWS Direct Connect enables Link Aggregation Group for additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2017/02/aws-direct-connect-enables-link-aggregation-group-for-additional-aws-regions/)
+- 2017.02.13 - [AWS Direct Connect announces support for Link Aggregation](https://aws.amazon.com/about-aws/whats-new/2017/02/aws-direct-connect-announces-support-for-link-aggregation/)
+- 2011.08.03 - [Announcing AWS Direct Connect](https://aws.amazon.com/about-aws/whats-new/2011/08/03/Announcing-AWS-Direct-Connect/)
