@@ -23,7 +23,7 @@ Serwis, który ułatwia zestawienie dedykowanego połączenia pomiędzy serwerow
 #### Tools
 #### Price
 
-- Dwa składniki:
+- Two factors:
 — Wielkość portu po stronie AWS
 — Transfer danych wychodzący z AWS
 
@@ -40,15 +40,17 @@ Serwis, który ułatwia zestawienie dedykowanego połączenia pomiędzy serwerow
 
 
 #### Video
-#### Ważne
 
-- Chcesz mieć redundancję, to potrzebujesz drugi AWS Direct Connect link (cena x 2) lub VPN Connection
-- AWS Direct Connect nie daje Service Level Agreement (SLA)
-- AWS rozgłasza przez dany link wszystkie adresacji z danego regionu
-- Możliwe jest dodanie drugiej sesji BGP dla ruchu IPv6
+- [AWS re:Invent 2016: Deep Dive: AWS Direct Connect and VPNs (NET402)](https://www.youtube.com/watch?v=Qep11X1r1QA)
 
+#### Important
 
-#### Historia
+- If you want to have redundancy you need a second AWS Direct Connect link (price x2) or VPN connection.
+- AWS Direct Connect doesn’t have Service Level Agreement (SLA)
+- AWS announces all ip prefixes from a certain AWS region via AWS Direct Connect
+- It’s possible to add another BGP session for IPv6 traffic
+
+#### History
 
 - 2017.10.10 - [Now you can configure Amazon side private ASN for your Virtual Private Gateway](https://aws.amazon.com/about-aws/whats-new/2017/10/now-you-can-configure-amazon-side-private-autonomous-system-number-for-your-virtual-private-gateway/)
 - 2017.09.12 - [Announcing New AWS Direct Connect Location in Houston, TX](https://aws.amazon.com/about-aws/whats-new/2017/)
