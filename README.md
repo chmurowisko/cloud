@@ -429,7 +429,6 @@ A web service that simplifies establishing a dedicated network connection from y
 ### Amazon CloudSearch
 ### Amazon Elasticsearch Service
 ### Amazon Kinesis
-### Amazon Redshift
 ### Amazon QuickSight
 ### AWS Data Pipeline
 ### AWS Glue
