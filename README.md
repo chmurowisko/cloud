@@ -268,6 +268,9 @@ AWS Schema Conversion Tool
 
 ### Elastic Load Balancing
 #### Description
+
+https://www.awsgeek.com/images/aws-alb-summary.jpg
+
 #### Similar Services
 #### Important Links
 #### Tools + Repos + Labs
