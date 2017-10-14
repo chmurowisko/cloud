@@ -20,7 +20,7 @@ Serwis, który ułatwia zestawienie dedykowanego połączenia pomiędzy serwerow
 - [Documentation](http://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html)
 - [API Reference](http://docs.aws.amazon.com/directconnect/latest/APIReference/Welcome.html)
 
-#### Tools
+#### Tools + Repos + Labs
 #### Price
 
 ##### Two factors:
@@ -66,3 +66,32 @@ Serwis, który ułatwia zestawienie dedykowanego połączenia pomiędzy serwerow
 - 2017.02.28 - [AWS Direct Connect enables Link Aggregation Group for additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2017/02/aws-direct-connect-enables-link-aggregation-group-for-additional-aws-regions/)
 - 2017.02.13 - [AWS Direct Connect announces support for Link Aggregation](https://aws.amazon.com/about-aws/whats-new/2017/02/aws-direct-connect-announces-support-for-link-aggregation/)
 - 2011.08.03 - [Announcing AWS Direct Connect](https://aws.amazon.com/about-aws/whats-new/2011/08/03/Announcing-AWS-Direct-Connect/)
+
+
+# AZURE
+## WEB + MOBILE
+
+### Azure App Service
+
+## DATABASES 
+
+### Azure SQL Database
+
+#### Description
+
+#### Similar Services
+
+#### Important Links
+
+#### Tools + Repos + Labs
+
+- [Microsoft/WingtipSaaS](https://github.com/Microsoft/WingtipSaaS) - A sample SaaS application and associated tutorials, built on Azure App Service and Azure SQL Database.
+
+#### Price
+
+#### Video
+
+#### Important
+
+#### History
+
