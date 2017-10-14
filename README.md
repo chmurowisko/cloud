@@ -6,22 +6,22 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 ## NETWORKING
 ### AWS Direct Connect
 
-#### Opis
+#### Description
 
 Serwis, który ułatwia zestawienie dedykowanego połączenia pomiędzy serwerownią a AWS. 
 
-#### Podobne Usługi
+#### Similar Services
 
-#### Ważne Linki
+#### Important Links
 
-- FAQ - https://aws.amazon.com/directconnect/faqs/
-- Product Details - https://aws.amazon.com/directconnect/details/
-- CLI Reference - http://docs.aws.amazon.com/cli/latest/reference/directconnect/index.html
-- Dokumentacja - http://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html
-- API Reference - http://docs.aws.amazon.com/directconnect/latest/APIReference/Welcome.html
+- [FAQ](https://aws.amazon.com/directconnect/faqs/)
+- [Product Details](https://aws.amazon.com/directconnect/details/)
+- [CLI Reference](http://docs.aws.amazon.com/cli/latest/reference/directconnect/index.html)
+- [Documentation](http://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html)
+- [API Reference](http://docs.aws.amazon.com/directconnect/latest/APIReference/Welcome.html)
 
-#### Lab
-#### Ceny
+#### Tools
+#### Price
 
 - Dwa składniki:
 — Wielkość portu po stronie AWS
@@ -50,10 +50,9 @@ Serwis, który ułatwia zestawienie dedykowanego połączenia pomiędzy serwerow
 
 #### Historia
 
-- 2017.10.10 - Now you can configure Amazon side private Autonomous System Number for your Virtual Private Gateway - https://aws.amazon.com/about-aws/whats-new/2017/10/now-you-can-configure-amazon-side-private-autonomous-system-number-for-your-virtual-private-gateway/
-- 2017.09.12 - Announcing New AWS Direct Connect Location in Houston, TX - https://aws.amazon.com/about-aws/whats-new/2017/
-- 2017.09.12 - Announcing New AWS Direct Connect Location in Canberra, Australia - https://aws.amazon.com/about-aws/whats-new/2017/
-- 2017.08.31 - Announcing New AWS Direct Connect Location in Boston, MA - https://aws.amazon.com/about-aws/whats-new/2017/08/announcing-new-aws-direct-connect-location-in-boston-ma/
+- 2017.10.10 - [Now you can configure Amazon side private Autonomous System Number for your Virtual Private Gateway](https://aws.amazon.com/about-aws/whats-new/2017/10/now-you-can-configure-amazon-side-private-autonomous-system-number-for-your-virtual-private-gateway/)
+- 2017.09.12 - [Announcing New AWS Direct Connect Location in Houston, TX](https://aws.amazon.com/about-aws/whats-new/2017/)
+- 2017.08.31 - [Announcing New AWS Direct Connect Location in Boston, MA](https://aws.amazon.com/about-aws/whats-new/2017/08/announcing-new-aws-direct-connect-location-in-boston-ma/)
 - 2017.07.29 - AWS Direct Connect now provides Amazon CloudWatch Monitoring - https://aws.amazon.com/about-aws/whats-new/2017/06/aws-direct-connect-now-provides-amazon-cloudwatch-monitoring/
 - 2017.06.27 - Announcing New AWS Direct Connect Locations in Kuala Lumpur and Seoul - https://aws.amazon.com/about-aws/whats-new/2017/06/announcing-new-aws-direct-connect-locations-in-kuala-lumpur-and-seoul/
 - 2017.05.31 - Announcing New AWS Direct Connect Locations in Atlanta, Columbus and Toronto - https://aws.amazon.com/about-aws/whats-new/2017/05/announcing-new-aws-direct-connect-locations-in-atlanta-columbus-and-toronto/
