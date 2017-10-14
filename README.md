@@ -8,7 +8,7 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 
 #### Description
 
-Serwis, który ułatwia zestawienie dedykowanego połączenia pomiędzy serwerownią a AWS. 
+A web service that simplifies establishing a dedicated network connection from your premises to AWS. [[source](http://docs.aws.amazon.com/general/latest/gr/glos-chap.html)]
 
 #### Similar Services
 
@@ -66,6 +66,32 @@ Serwis, który ułatwia zestawienie dedykowanego połączenia pomiędzy serwerow
 - 2017.02.28 - [AWS Direct Connect enables Link Aggregation Group for additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2017/02/aws-direct-connect-enables-link-aggregation-group-for-additional-aws-regions/)
 - 2017.02.13 - [AWS Direct Connect announces support for Link Aggregation](https://aws.amazon.com/about-aws/whats-new/2017/02/aws-direct-connect-announces-support-for-link-aggregation/)
 - 2011.08.03 - [Announcing AWS Direct Connect](https://aws.amazon.com/about-aws/whats-new/2011/08/03/Announcing-AWS-Direct-Connect/)
+
+
+## SECURITY + IDENTITY + COMPLIANCE
+
+### AWS Organizations
+
+#### Description
+
+An account management service that enables you to consolidate multiple AWS accounts into an organization that you create and centrally manage. [[source](http://docs.aws.amazon.com/general/latest/gr/glos-chap.html)]
+
+#### Similar Services
+
+#### Important Links
+
+#### Tools + Repos + Labs
+
+- [Creating AWS Accounts From The Command Line With AWS Organizations](https://alestic.com/2017/09/aws-organizations-cli/)
+
+#### Price
+
+#### Video
+
+#### Important
+
+#### History
+
 
 
 # AZURE
