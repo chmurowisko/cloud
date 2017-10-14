@@ -565,51 +565,51 @@ An account management service that enables you to consolidate multiple AWS accou
 ## Other AWS Tools/Libraries Around Cloud Computing
 
 ### AWS Schema Conversion Tool
-AWS Personal Health Dashboard
-AWS Command Line Interface
-AWS ElasticBeanstalk CLI
-Amazon ECS CLI
-AWS PowerShell Tools
-AWS Management Console
-Apache MXNet on AWS
-TensorFlow on AWS
-AWS Deep Learning AMIs
-Amazon Lumberyard
-AWS IoT Button
-AWS Marketplace
-AWS Cost Explorer
-AWS Budgets
-IDE Toolkit Eclipse
-IDE Toolkit Visual Studio
+### AWS Personal Health Dashboard
+### AWS Command Line Interface
+### AWS ElasticBeanstalk CLI
+### Amazon ECS CLI
+### AWS PowerShell Tools
+### AWS Management Console
+### Apache MXNet on AWS
+### TensorFlow on AWS
+### AWS Deep Learning AMIs
+### Amazon Lumberyard
+### AWS IoT Button
+### AWS Marketplace
+### AWS Cost Explorer
+### AWS Budgets
+### IDE Toolkit Eclipse
+### IDE Toolkit Visual Studio
 
 ### SDK
 
 #### Java Script
-Node.js
-Python
-PHP
-.NET
-Ruby
-Java
-Go
-C++
+#### Node.js
+#### Python
+#### PHP
+#### .NET
+#### Ruby
+#### Java
+#### Go
+#### C++
 
 ### Mobile SDK
 
-iOS
-Android/FireOS
-Xamarin
-Unity
-React Native
+#### iOS
+#### Android/FireOS
+#### Xamarin
+#### Unity
+#### React Native
 
 ### IoT SDK
 
-Embedded C
-JavaScript
-Arduino Yún
-Java
-Python
-C++
+#### Embedded C
+#### JavaScript
+#### Arduino Yún
+#### Java
+#### Python
+#### C++
 
 # AZURE
 ## WEB + MOBILE
