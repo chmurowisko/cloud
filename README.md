@@ -69,7 +69,7 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 ### AWS Lambda
 #### Description
 
-A web service that lets you run code without provisioning or managing servers. You can run code for virtually any type of application or back-end service with zero administration. [[source](http://docs.aws.amazon.com/general/latest/gr/glos-chap.html)]
+A web service that lets you run code without provisioning or managing servers. You can run code for virtually any type of application or back-end service with zero administration. [[source](http://docs.aws.amazon.com/general/latest/gr/glos-chap.html)] [[graphic by awsgeek](https://www.awsgeek.com/posts/aws-lambda-summary/)]
 
 #### Similar Services
 - Azure => [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
@@ -269,7 +269,7 @@ AWS Schema Conversion Tool
 ### Elastic Load Balancing
 #### Description
 
-A web service that improves an application's availability by distributing incoming traffic between two or more EC2 instances. [[source](http://docs.aws.amazon.com/general/latest/gr/glos-chap.html)][[graphic by awskeek](https://www.awsgeek.com/images/aws-alb-summary.jpg)]
+A web service that improves an application's availability by distributing incoming traffic between two or more EC2 instances. [[source](http://docs.aws.amazon.com/general/latest/gr/glos-chap.html)][[graphic by awsgeek](https://www.awsgeek.com/images/aws-alb-summary.jpg)]
 
 #### Similar Services
 #### Important Links
@@ -423,7 +423,32 @@ A web service that simplifies establishing a dedicated network connection from y
 ### Amazon Lex
 ### Amazon Polly
 ### Amazon Rekognition
+
+#### Description
+
+[[graphic by awsgeek](https://www.awsgeek.com/images/amazon-rekognition-summary.jpg)]
+
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
 ### Amazon Machine Learning
+
+#### Description
+
+[[graphic by awsgeek](https://www.awsgeek.com/posts/amazon-machine-learning-summary/)]
+
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
 
 ## ANALYTICS
 
@@ -447,12 +472,39 @@ A web service that simplifies establishing a dedicated network connection from y
 ### Amazon Cloud Directory
 ### Amazon Inspector
 ### Amazon Macie
+
+#### Description
+
+[[graphic by awsgeek](https://www.awsgeek.com/images/amazon-macie-summary.jpg)]
+
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
 ### AWS Certificate Manager
 ### AWS CloudHSM
 ### AWS Directory Service
 ### AWS Key Management Service
 ### AWS Shield
 ### AWS WAF
+
+#### Description
+
+[[graphic by awsgeek](https://www.awsgeek.com/images/aws-waf-summary.jpg)]
+
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+
 ### AWS Artifact
 
 ### AWS Organizations
