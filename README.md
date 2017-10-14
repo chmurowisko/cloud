@@ -23,20 +23,20 @@ Serwis, który ułatwia zestawienie dedykowanego połączenia pomiędzy serwerow
 #### Tools
 #### Price
 
-- Two factors:
-— Wielkość portu po stronie AWS
-— Transfer danych wychodzący z AWS
+##### Two factors:
+- Wielkość portu po stronie AWS
+- Transfer danych wychodzący z AWS
 
--  Przykład dla Frankfurt:
-— Port 100 Mb/s po stronie AWS
-— Kolokacja portu w CE Colo Prague to/from EU Central (Frankfurt) Region
-— Wysyłamy z AWS 400 GB danych miesięcznie do lokalnego Data Center
-— Port - $0.06/hour
-— Transfer - $0.030/GB
-— Suma - (30 * 24 * $0.06) + (400 * $0.030) = $43,2 + $12 = $55,2
+##### Example for Frankfurt:
+- Port 100 Mb/s po stronie AWS
+- Kolokacja portu w CE Colo Prague to/from EU Central (Frankfurt) Region
+- Wysyłamy z AWS 400 GB danych miesięcznie do lokalnego Data Center
+- Port - $0.06/hour
+- Transfer - $0.030/GB
+- **Suma** - (30 * 24 * $0.06) + (400 * $0.030) = $43,2 + $12 = $**55,2**
 
-- Ważne aspekty związane z cenami:
-— Dodatkowo musimy pokryć koszt łącza po swojej stronie i połączenia z kolokacją
+##### Important:
+- We must pay for links, transfer, equipment, etc. for a local ISP.
 
 
 #### Video
