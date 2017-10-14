@@ -100,6 +100,10 @@ Serwis, który ułatwia zestawienie dedykowanego połączenia pomiędzy serwerow
 
 #### Similar Services
 
+- AWS => [Amazon Relational Database Service (RDS)](https://aws.amazon.com/rds/)
+- GCP => [Google Cloud SQL](https://cloud.google.com/sql/)
+- GCP => [Google Cloud Spanner](https://cloud.google.com/spanner/)
+
 #### Important Links
 
 #### Tools + Repos + Labs
