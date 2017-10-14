@@ -6,14 +6,72 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 
 ## COMPUTE
 
-### AWS Lambda
+### Amazon EC2
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
 
+### Amazon EC2 Container Registry
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### Amazon EC2 Container Service
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### Amazon Lightsail
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### AWS Batch
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### AWS Elastic Beanstalk
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### AWS Lambda
 #### Description
 
 A web service that lets you run code without provisioning or managing servers. You can run code for virtually any type of application or back-end service with zero administration. [[source](http://docs.aws.amazon.com/general/latest/gr/glos-chap.html)]
 
 #### Similar Services
-
 - Azure => [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
 - GCP => [Google Cloud Functions](https://cloud.google.com/functions/)
 - IBM BlueMix => [IBM Cloud Functions](https://console.bluemix.net/openwhisk/)
@@ -32,6 +90,150 @@ A web service that lets you run code without provisioning or managing servers. Y
 
 #### Important
 
+#### History
+
+## STORAGE
+
+### Amazon Simple Storage Service (S3)
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### Amazon Elastic Block Storage (EBS)
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### Amazon Elastic File System (EFS)
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### Amazon Glacier
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### AWS Storage Gateway
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### AWS Snowball
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### AWS Snowball Edge
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### AWS Snowmobile
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+## DATABASE
+
+### Amazon RDS
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### Amazon DynamoDB
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### Amazon DynamoDB Accelerator (DAX)
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### Amazon ElastiCache
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### Amazon Redshift
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### AWS Database Migration Service
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
 #### History
 
 ## NETWORKING
