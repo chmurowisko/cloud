@@ -1,6 +1,6 @@
 # CLOUD COMPUTING
 
-List of resources, tools, links around cloud computing topics - mainly AWS, Azure, GCP.
+List of resources, tools, links around cloud computing topics - mainly AWS, Azure, GCP. All in one page. Simply use search to find what you need.
 
 # AWS
 
