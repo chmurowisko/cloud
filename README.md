@@ -400,6 +400,8 @@ A web service that simplifies establishing a dedicated network connection from y
 #### Important
 #### History
 
+
+
 ## MANAGEMENT
 
 ### Amazon CloudWatch
@@ -413,31 +415,153 @@ A web service that simplifies establishing a dedicated network connection from y
 ### AWS Personal Health Dashboard
 ### AWS Managed Services
 
+## ARTIFICIAL INTELLIGENCE
+
+### Amazon Lex
+### Amazon Polly
+### Amazon Rekognition
+### Amazon Machine Learning
+
+## ANALYTICS
+
+### Amazon Athena
+### Amazon EMR
+### Amazon CloudSearch
+### Amazon Elasticsearch Service
+### Amazon Kinesis
+### Amazon Redshift
+### Amazon QuickSight
+### AWS Data Pipeline
+### AWS Glue
+
+## INTERNET OF THINGS
+
+### AWS IoT Platform
+### AWS Greengrass
+
 ## SECURITY + IDENTITY + COMPLIANCE
 
+### AWS Identity and Access Management (IAM)
+### Amazon Cloud Directory
+### Amazon Inspector
+### Amazon Macie
+### AWS Certificate Manager
+### AWS CloudHSM
+### AWS Directory Service
+### AWS Key Management Service
+### AWS Shield
+### AWS WAF
+### AWS Artifact
+
 ### AWS Organizations
-
 #### Description
-
 An account management service that enables you to consolidate multiple AWS accounts into an organization that you create and centrally manage. [[source](http://docs.aws.amazon.com/general/latest/gr/glos-chap.html)]
 
 #### Similar Services
-
 #### Important Links
-
 #### Tools + Repos + Labs
-
 - [Creating AWS Accounts From The Command Line With AWS Organizations](https://alestic.com/2017/09/aws-organizations-cli/)
 
 #### Price
-
 #### Video
-
 #### Important
-
 #### History
 
+## WEB & MOBILE
 
+### AWS Mobile Hub
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### Amazon Cognito
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### Amazon Pinpoint
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### AWS Device Farm
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### Amazon API Gateway
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### Amazon Elastic Transcoder
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### AWS Step Functions
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+## MESSAGING
+
+### Amazon Simple Queue Service (SQS)
+### Amazon Simple Notification Service (SNS)
+### Amazon Pinpoint
+### Amazon Simple Email Service (SES)
+
+## BUSINESS PRODUCTIVITY
+
+### Amazon Chime
+### Amazon WorkDocs
+### Amazon WorkMail
+### Amazon Connect
+
+## DESKTOP & APP STREAMING
+
+### Amazon WorkSpaces
+### Amazon AppStream 2.0
+
+## Game Development
+
+### Amazon GameLift
+### Amazon Lumberyard
 
 # AZURE
 ## WEB + MOBILE
