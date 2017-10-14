@@ -3,6 +3,37 @@
 List of resources, tools, links around cloud computing topics - mainly AWS, Azure, GCP.
 
 # AWS
+
+## COMPUTE
+
+### AWS Lambda
+
+#### Description
+
+A web service that lets you run code without provisioning or managing servers. You can run code for virtually any type of application or back-end service with zero administration. [[source](http://docs.aws.amazon.com/general/latest/gr/glos-chap.html)]
+
+#### Similar Services
+
+- Azure => [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
+- GCP => [Google Cloud Functions](https://cloud.google.com/functions/)
+- IBM BlueMix => [IBM Cloud Functions](https://console.bluemix.net/openwhisk/)
+
+#### Important Links
+
+#### Tools + Repos + Labs
+
+- [Microsoft/WingtipSaaS](https://github.com/Microsoft/WingtipSaaS) - A sample SaaS application and associated tutorials, built on Azure App Service and Azure SQL Database.
+
+#### Price
+
+#### Video
+
+- [AWS Lambda@Edge Lightning Demos](https://www.youtube.com/watch?v=jJsWB7CjY-U)
+
+#### Important
+
+#### History
+
 ## NETWORKING
 ### AWS Direct Connect
 
