@@ -561,7 +561,6 @@ An account management service that enables you to consolidate multiple AWS accou
 ## Game Development
 
 ### Amazon GameLift
-### Amazon Lumberyard
 
 # AZURE
 ## WEB + MOBILE
