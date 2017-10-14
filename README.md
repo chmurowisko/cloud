@@ -269,7 +269,7 @@ AWS Schema Conversion Tool
 ### Elastic Load Balancing
 #### Description
 
-https://www.awsgeek.com/images/aws-alb-summary.jpg
+A web service that improves an application's availability by distributing incoming traffic between two or more EC2 instances. [[source](http://docs.aws.amazon.com/general/latest/gr/glos-chap.html)][[graphic by awskeek](https://www.awsgeek.com/images/aws-alb-summary.jpg)]
 
 #### Similar Services
 #### Important Links
