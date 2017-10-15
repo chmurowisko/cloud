@@ -8,7 +8,7 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 - [Microsoft Azure](#microsoft-azure)
 - [Google Cloud Platform](#google-cloud-platform)
 
-**SECTIONS**
+**SERVICES AWS**
 
 1. [Amazon EC2](#amazon-ec2)
 1. [Amazon EC2 Container Registry](#amazon-ec2-container-registry)
@@ -100,7 +100,11 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. Amazon AppStream 2.0
 1. Amazon GameLift
 
+**SERVICES AZURE**
+
 1. Azure Virtual Machines
+
+**SERVICES GCP**
 
 1. Google Compute Engine
 
