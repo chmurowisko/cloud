@@ -17,6 +17,111 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. [AWS Batch](#aws-batch)
 1. [AWS Elastic Beanstalk](#aws-elastic-beanstalk)
 1. [AWS Lambda](#aws-lambda)
+1. Amazon Simple Storage Service (S3)
+1. Amazon Elastic Block Storage (EBS)
+1. Amazon Elastic File System (EFS)
+1. Amazon Glacier
+1. AWS Storage Gateway
+1. AWS Snowball
+1. AWS Snowball Edge
+1. AWS Snowmobile
+1. Amazon RDS
+1. Amazon DynamoDB
+1. Amazon DynamoDB Accelerator (DAX)
+1. Amazon ElastiCache
+1. Amazon Redshift
+1. AWS Migration Hub
+1. AWS Application Discovery Service
+1. AWS Database Migration Service
+1. AWS Server Migration Service
+1. Amazon VPC
+1. Amazon CloudFront
+1. Amazon Route 53
+1. Elastic Load Balancing
+1. AWS Direct Connect
+1. AWS CodeStar
+1. AWS CodeCommit
+1. AWS CodeBuild
+1. AWS CodeDeploy
+1. AWS CodePipeline
+1. AWS X-Ray
+1. Amazon CloudWatch
+1. Amazon EC2 Systems Manager
+1. AWS CloudFormation
+1. AWS CloudTrail
+1. AWS Config
+1. AWS OpsWorks
+1. AWS Service Catalog
+1. AWS Trusted Advisor
+1. AWS Personal Health Dashboard
+1. AWS Managed Services
+1. Amazon Lex
+1. Amazon Polly
+1. Amazon Rekognition
+1. Amazon Machine Learning
+1. Amazon Athena
+1. Amazon EMR
+1. Amazon CloudSearch
+1. Amazon Elasticsearch Service
+1. Amazon Kinesis
+1. Amazon QuickSight
+1. AWS Data Pipeline
+1. AWS Glue
+1. AWS IoT Platform
+1. AWS Greengrass
+1. AWS Identity and Access Management (IAM)
+1. Amazon Cloud Directory
+1. Amazon Inspector
+1. Amazon Macie
+1. AWS Certificate Manager
+1. AWS CloudHSM
+1. AWS Directory Service
+1. AWS Key Management Service
+1. AWS Shield
+1. AWS WAF
+1. AWS Artifact
+1. AWS Organizations
+1. AWS Mobile Hub
+1. Amazon Cognito
+1. Amazon Pinpoint
+1. AWS Device Farm
+1. Amazon API Gateway
+1. Amazon Elastic Transcoder
+1. AWS Step Functions
+1. Amazon Simple Queue Service (SQS)
+1. Amazon Simple Notification Service (SNS)
+1. Amazon Pinpoint
+1. Amazon Simple Email Service (SES)
+1. Amazon Chime
+1. Amazon WorkDocs
+1. Amazon WorkMail
+1. Amazon Connect
+1. Amazon WorkSpaces
+1. Amazon AppStream 2.0
+1. Amazon GameLift
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # AMAZON WEB SERVICES
 
