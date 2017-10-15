@@ -100,7 +100,9 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. Amazon AppStream 2.0
 1. Amazon GameLift
 
+1. Azure Virtual Machines
 
+1. Google Compute Engine
 
 
 
