@@ -6,8 +6,17 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 
 - [Amazon Web Services](#amazon-web-services)
 - [Microsoft Azure](#microsoft-azure)
-- Google Cloud Platform
+- [Google Cloud Platform](#google-cloud-platform)
 
+**SECTIONS**
+
+1. Amazon EC2
+1. Amazon EC2 Container Registry
+1. Amazon EC2 Container Service
+1. Amazon Lightsail
+1. AWS Batch
+1. AWS Elastic Beanstalk
+1. AWS Lambda
 
 # AMAZON WEB SERVICES
 
