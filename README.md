@@ -4,12 +4,12 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 
 **CLOUDS**
 
-- [Amazon Web Services](#AMAZON_WEB_SERVICES)
-- [Microsoft Azure](#MICROSOFT_AZURE)
+- [Amazon Web Services](#amazon-web-services)
+- [Microsoft Azure](#microsoft-azure)
 - Google Cloud Platform
 
 
-# AMAZON_WEB_SERVICES
+# AMAZON WEB SERVICES
 
 ## COMPUTE
 
@@ -671,7 +671,7 @@ An account management service that enables you to consolidate multiple AWS accou
 #### Python
 #### C++
 
-# MICROSOFT_AZURE
+# MICROSOFT AZURE
 
 ## COMPUTE
 
