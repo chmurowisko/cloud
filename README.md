@@ -4,13 +4,12 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 
 **CLOUDS**
 
-
-- [Amazon Web Services](#AMAZON WEB SERVICES)
+- [Amazon Web Services](#AMAZON_WEB_SERVICES)
 - Microsoft Azure
 - Google Cloud Platform
 
 
-# AMAZON WEB SERVICES
+# AMAZON_WEB_SERVICES
 
 ## COMPUTE
 
