@@ -103,6 +103,15 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 **SERVICES AZURE**
 
 1. Azure Virtual Machines
+1. Azure Virtual Network
+1. Azure Load Balancer
+1. Azure Application Gateway
+1. Azure VPN Gateway
+1. Azure DNS
+1. Azure Content Delivery Network
+1. Azure Traffic Manager
+1. Azure ExpressRoute
+1. Azure DDoS Protection
 
 **SERVICES GCP**
 
@@ -806,6 +815,45 @@ An account management service that enables you to consolidate multiple AWS accou
 ## MIGRATION
 
 ## NETWORKING
+
+### Azure Virtual Network
+### Azure Load Balancer
+### Azure Application Gateway
+### Azure VPN Gateway
+### Azure DNS
+### Azure Content Delivery Network
+### Azure Traffic Manager
+### Azure ExpressRoute
+
+#### Description
+#### Similar Services
+#### Important Links
+
+- [FAQ](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-faqs)
+
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+- 2016.10.14 - [General availability: UltraPerformance Gateway tier for Azure ExpressRoute](https://azure.microsoft.com/en-us/updates/general-availability-ultraperformance-gateway-tier-for-azure-expressroute/)
+- 2016.07.13 - [General availability: Azure ExpressRoute in additional locations](https://azure.microsoft.com/en-us/updates/general-availability-azure-expressroute-in-additional-locations/)
+- 2016.04.04 - [New offer for customers who use ExpressRoute for Office 365 traffic](https://azure.microsoft.com/en-us/updates/new-offer-for-customers-who-use-expressroute-for-office-365-traffic/)
+- 2015.10.07 - [Support for IaaS under Azure Resource Manager in Australia and Brazil regions](https://azure.microsoft.com/en-us/updates/support-for-iaas-under-azure-resource-manager-in-australia-and-brazil-regions-2/)
+- 2015.10.06 - [ARM support for ExpressRoute available in all regions](https://azure.microsoft.com/en-us/updates/arm-support-for-expressroute-available-in-brazil-south-region-2/)
+- 2015.10.02 - [New data plans for Azure ExpressRoute](https://azure.microsoft.com/en-us/updates/new-data-plans-for-azure-expressroute/)
+- 2015.09.29 - [ARM support for ExpressRoute available in Brazil South region](https://azure.microsoft.com/en-us/updates/arm-support-for-expressroute-available-in-brazil-south-region/)
+- 2015.09.29 - [Office 365, Azure Government Cloud, Resource Manager templates, simplified billing](https://azure.microsoft.com/en-us/updates/office-365-azure-government-cloud-resource-manager-templates-simplified-billing/)
+- 2015.05.04 - [General availability: Azure ExpressRoute Premium add-on package](https://azure.microsoft.com/en-us/updates/general-availability-azure-expressroute-premium-add-on-package/)
+- 2014.12.11 - [Azure ExpressRoute available in Brazil South](https://azure.microsoft.com/en-us/updates/azure-expressroute-available-in-brazil-south/)
+- 2014.12.11 - [Data and price changes in 10 Gbps ExpressRoute Exchange Provider](https://azure.microsoft.com/en-us/updates/changes-in-10-gbps-expressroute-exchange-provider/)
+- 2014.05.12 - [General Availability: ExpressRoute](https://azure.microsoft.com/en-us/updates/general-availability-expressroute/)
+- 2014.02.21 - [New service: ExpressRoute (Preview)](https://azure.microsoft.com/en-us/updates/expressroute-preview/)
+
+
+
+### Azure DDoS Protection
 
 ## DEVELOPER TOOLS
 
