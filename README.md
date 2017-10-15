@@ -22,9 +22,6 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. Amazon Elastic File System (EFS)
 1. Amazon Glacier
 1. AWS Storage Gateway
-1. AWS Snowball
-1. AWS Snowball Edge
-1. AWS Snowmobile
 1. Amazon RDS
 1. Amazon DynamoDB
 1. Amazon DynamoDB Accelerator (DAX)
@@ -34,6 +31,9 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. AWS Application Discovery Service
 1. AWS Database Migration Service
 1. AWS Server Migration Service
+1. AWS Snowball
+1. AWS Snowball Edge
+1. AWS Snowmobile
 1. Amazon VPC
 1. Amazon CloudFront
 1. Amazon Route 53
@@ -107,27 +107,6 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 **SERVICES GCP**
 
 1. Google Compute Engine
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # AMAZON WEB SERVICES
 
@@ -271,35 +250,6 @@ A web service that lets you run code without provisioning or managing servers. Y
 #### Important
 #### History
 
-### AWS Snowball
-#### Description
-#### Similar Services
-#### Important Links
-#### Tools + Repos + Labs
-#### Price
-#### Video
-#### Important
-#### History
-
-### AWS Snowball Edge
-#### Description
-#### Similar Services
-#### Important Links
-#### Tools + Repos + Labs
-#### Price
-#### Video
-#### Important
-#### History
-
-### AWS Snowmobile
-#### Description
-#### Similar Services
-#### Important Links
-#### Tools + Repos + Labs
-#### Price
-#### Video
-#### Important
-#### History
 
 ## DATABASE
 
@@ -359,6 +309,37 @@ A web service that lets you run code without provisioning or managing servers. Y
 ### AWS Application Discovery Service
 ### AWS Database Migration Service
 ### AWS Server Migration Service
+
+### AWS Snowball
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### AWS Snowball Edge
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### AWS Snowmobile
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
 
 ## NETWORKING
 
@@ -562,6 +543,8 @@ A web service that simplifies establishing a dedicated network connection from y
 #### Important
 #### History
 
+## ANALYTICS
+
 ### Amazon Machine Learning
 
 #### Description
@@ -575,9 +558,6 @@ A web service that simplifies establishing a dedicated network connection from y
 #### Video
 #### Important
 #### History
-
-## ANALYTICS
-
 ### Amazon Athena
 ### Amazon EMR
 ### Amazon CloudSearch
@@ -893,6 +873,10 @@ An account management service that enables you to consolidate multiple AWS accou
 ### Google Cloud Datastore
 
 ## MIGRATION
+
+### Google Transfer Appliance
+### Cloud Storage Transfer Service
+### Google BigQuery Data Transfer Service
 
 ## NETWORKING
 
