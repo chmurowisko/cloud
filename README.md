@@ -2,7 +2,14 @@
 
 List of resources, tools, links around cloud computing topics - mainly AWS, Azure, GCP. All in one page. Simply use search to find what you need.
 
-# AWS
+**CLOUDS**
+
+- [Amazon Web Services][AMAZON WEB SERVICES]
+- Microsoft Azure
+- Google Cloud Platform
+
+
+# AMAZON WEB SERVICES
 
 ## COMPUTE
 
@@ -231,7 +238,6 @@ A web service that lets you run code without provisioning or managing servers. Y
 ### AWS Migration Hub
 ### AWS Application Discovery Service
 ### AWS Database Migration Service
-AWS Schema Conversion Tool
 ### AWS Server Migration Service
 
 ## NETWORKING
@@ -612,11 +618,11 @@ An account management service that enables you to consolidate multiple AWS accou
 ### Amazon WorkSpaces
 ### Amazon AppStream 2.0
 
-## Game Development
+## GAME DEVELOPMENT
 
 ### Amazon GameLift
 
-## Other AWS Tools/Libraries Around Cloud Computing
+## OTHER AWS TOOLS/LIBRARIES
 
 ### AWS Schema Conversion Tool
 ### AWS Personal Health Dashboard
@@ -665,31 +671,13 @@ An account management service that enables you to consolidate multiple AWS accou
 #### Python
 #### C++
 
-# AZURE
-## WEB + MOBILE
+# MICROSOFT AZURE
 
-### Azure App Service
+## COMPUTE
 
-#### Description
+## STORAGE
 
-#### Similar Services
-
-#### Important Links
-
-#### Tools + Repos + Labs
-
-- [Microsoft/WingtipSaaS](https://github.com/Microsoft/WingtipSaaS) - A sample SaaS application and associated tutorials, built on Azure App Service and Azure SQL Database.
-
-#### Price
-
-#### Video
-
-#### Important
-
-#### History
-
-
-## DATABASES 
+## DATABASE 
 
 ### Azure SQL Database
 
@@ -714,4 +702,121 @@ An account management service that enables you to consolidate multiple AWS accou
 #### Important
 
 #### History
+
+## MIGRATION
+
+## NETWORKING
+
+## DEVELOPER TOOLS
+
+## MANAGEMENT
+
+## ARTIFICIAL INTELLIGENCE
+
+## ANALYTICS
+
+## INTERNET OF THINGS
+
+## SECURITY + IDENTITY + COMPLIANCE
+
+## WEB + MOBILE
+
+
+
+### Azure App Service
+
+#### Description
+
+#### Similar Services
+
+#### Important Links
+
+#### Tools + Repos + Labs
+
+- [Microsoft/WingtipSaaS](https://github.com/Microsoft/WingtipSaaS) - A sample SaaS application and associated tutorials, built on Azure App Service and Azure SQL Database.
+
+#### Price
+
+#### Video
+
+#### Important
+
+#### History
+
+## MESSAGING
+
+## BUSINESS PRODUCTIVITY
+
+## DESKTOP & APP STREAMING
+
+## OTHER AZURE TOOLS/LIBRARIES
+
+# GOOGLE CLOUD PLATFORM
+
+## COMPUTE
+
+### Google Compute Engine
+### Google App Engine
+### Google Container Engine
+### Goole Cloud Functions
+
+## STORAGE
+
+### Google Cloud Storage
+### Google Persistent Disk
+
+## DATABASE 
+
+### Google Cloud SQL
+### Google Cloud Bigtable
+### Google Cloud Spanner
+### Google Cloud Datastore
+
+## MIGRATION
+
+## NETWORKING
+
+## DEVELOPER TOOLS
+
+## MANAGEMENT
+
+## ARTIFICIAL INTELLIGENCE
+
+## ANALYTICS
+
+### Google BigQuery
+### Google Cloud Dataflow
+### Google Cloud Dataproc
+### Google Cloud Datalab
+### Google Cloud Dataprep
+### Google Genomics
+### Google Data Studio
+
+## INTERNET OF THINGS
+
+### Google Cloud IoT Core
+
+## SECURITY + IDENTITY + COMPLIANCE
+
+### Cloud IAM
+### Cloud Identity-Aware Proxy
+### Cloud Data Loss Prevention API
+### Google Security Key Enforcement
+### Google Cloud Key Management Service
+### Google Cloud Resource Manager
+### Google Cloud Security Scanner
+
+## WEB + MOBILE
+
+## MESSAGING
+
+### Google Cloud Pub/Sub
+
+## BUSINESS PRODUCTIVITY
+
+## DESKTOP & APP STREAMING
+
+## OTHER GCP TOOLS/LIBRARIES
+
+
 
