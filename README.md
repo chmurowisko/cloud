@@ -10,13 +10,13 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 
 **SECTIONS**
 
-1. Amazon EC2
-1. Amazon EC2 Container Registry
-1. Amazon EC2 Container Service
-1. Amazon Lightsail
-1. AWS Batch
-1. AWS Elastic Beanstalk
-1. AWS Lambda
+1. [Amazon EC2](#amazon-ec2)
+1. [Amazon EC2 Container Registry](#amazon-ec2-container-registry)
+1. [Amazon EC2 Container Service](#amazon-ec2-container-service)
+1. [Amazon Lightsail](#amazon-lightsail)
+1. [AWS Batch](#aws-batch)
+1. [AWS Elastic Beanstalk](#aws-elastic-beanstalk)
+1. [AWS Lambda](#aws-lambda)
 
 # AMAZON WEB SERVICES
 
