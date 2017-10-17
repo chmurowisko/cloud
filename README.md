@@ -574,6 +574,7 @@ A web service that simplifies establishing a dedicated network connection from y
 #### Tools + Repos + Labs
 
 - [awslabs/machine-learning-samples](https://github.com/awslabs/machine-learning-samples/tree/master/targeted-marketing-python) - Python application - targeted marketing with Amazon Machine Learning
+- [Official Tutorial](http://docs.aws.amazon.com/machine-learning/latest/dg/tutorial.html) - Using Amazon ML to Predict Responses to a Marketing Offer
 
 #### Price
 #### Video
