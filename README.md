@@ -564,6 +564,13 @@ A web service that simplifies establishing a dedicated network connection from y
 
 #### Similar Services
 #### Important Links
+
+- [FAQ]()
+- [Product Details]()
+- [CLI Reference]()
+- [Documentation]()
+- [API Reference](http://docs.aws.amazon.com/machine-learning/latest/APIReference/Welcome.html)
+
 #### Tools + Repos + Labs
 
 - [awslabs/machine-learning-samples](https://github.com/awslabs/machine-learning-samples/tree/master/targeted-marketing-python) - Python application - targeted marketing with Amazon Machine Learning
@@ -572,6 +579,27 @@ A web service that simplifies establishing a dedicated network connection from y
 #### Video
 #### Important
 #### History
+
+- 2016.08.02 - [Compute and Completion Time for Object Creation Now Available in the Amazon ML Console, API, and AWS SDKs](https://aws.amazon.com/about-aws/whats-new/2016/08/compute-and-completion-time-for-object-creation-now-available-in-the-amazon-ml-api-console-and-aws-sdks/)
+- 2016.07.26 - [Now Access CloudWatch Metrics directly from the Amazon ML Console](https://aws.amazon.com/about-aws/whats-new/2016/07/now-access-cloudwatch-metrics-directly-from-the-amazon-ml-console/)
+- 2016.07.20 - [Now Easily Delete Multiple Objects through the Amazon ML Console](https://aws.amazon.com/about-aws/whats-new/2016/07/now-easily-delete-multiple-objects-through-the-amazon-ml-console/)
+- 2016.06.23 - [Now use Object Tags in the Amazon Machine Learning Console](https://aws.amazon.com/about-aws/whats-new/2016/06/now-use-object-tag-in-the-amazon-machine-learning-console/)
+- 2016.06.07 - [Tagging now Available with the Amazon Machine Learning API](https://aws.amazon.com/about-aws/whats-new/2016/06/tagging-now-available-with-the-amazon-machine-learning-api/)
+- 2016.04.11 - [AWS IoT Now Supports Integration with Amazon Machine Learning and AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2016/04/aws-iot-now-supports-integration-with-amazon-machine-learning-and-aws-cloudtrail/)
+- 2016.04.11 - [Easily Create New Amazon Redshift Datasources in Amazon ML by Copying Existing Datasource Settings](https://aws.amazon.com/about-aws/whats-new/2016/04/easily-create-new-amazon-redshift-datasources-in-amazon-ml-by-copying-existing-datasource-settings/)
+- 2016.04.05 - [Now improve your machine learning model quality with data shuffling in Amazon Machine Learning](https://aws.amazon.com/about-aws/whats-new/2016/04/now-improve-your-machine-learning-model-quality-with-data-shuffling-in-amazon-machine-learning/)
+- 2016.03.21 - [Amazon Machine Learning Console Now Makes It Easier to Connect to Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2016/03/amazon-machine-learning-console-now-makes-it-easier-to-connect-to-amazon-redshift/)
+- 2016.02.09 - [Improved Amazon Redshift Data Schema Conversion from Amazon Machine Learning Console](https://aws.amazon.com/about-aws/whats-new/2016/02/improved-amazon-redshift-data-schema-conversion-from-amazon-machine-learning-console/)
+- 2015.12.10 - [Amazon Machine Learning now Integrated with AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2015/12/amazon-machine-learning-now-integrated-with-aws-cloudtrail/)
+- 2015.12.03 - [Random Data Splitting and Cross-validation with Amazon Machine Learning](https://aws.amazon.com/about-aws/whats-new/2015/12/random-data-splitting-and-cross-validation-with-amazon-machine-learning/)
+- 2015.11.19 - [Try Real-time Predictions from the Amazon Machine Learning Console](https://aws.amazon.com/about-aws/whats-new/2015/11/try-real-time-predictions-from-the-amazon-machine-learning-console/)
+- 2015.08.27 - [Estimate the Cost of Your Predictions in Amazon Machine Learning](https://aws.amazon.com/about-aws/whats-new/2015/08/estimate-the-cost-of-your-predictions-in-amazon-machine-learning/)
+- 2015.08.20 - [Amazon Machine Learning Now Available in EU (Ireland) AWS Region](https://aws.amazon.com/about-aws/whats-new/2015/08/amazon-machine-learning-now-available-in-eu-ireland-aws-region/)
+- 2015.04.09 - [Introducing Amazon Machine Learning](https://aws.amazon.com/about-aws/whats-new/2015/04/introducing-amazon-machine-learning/)
+
+
+
+
 ### Amazon Athena
 ### Amazon EMR
 ### Amazon CloudSearch
