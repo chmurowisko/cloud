@@ -193,6 +193,8 @@ A web service that lets you run code without provisioning or managing servers. Y
 
 #### Important Links
 
+- [srcecde/aws-lambda-cheatsheet](https://github.com/srcecde/aws-lambda-cheatsheet) - AWS Lambda Cheatsheet
+
 #### Tools + Repos + Labs
 
 - [Microsoft/WingtipSaaS](https://github.com/Microsoft/WingtipSaaS) - A sample SaaS application and associated tutorials, built on Azure App Service and Azure SQL Database.
