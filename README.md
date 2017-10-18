@@ -103,6 +103,12 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 **SERVICES AZURE**
 
 1. Azure Virtual Machines
+1. Azure Virtual Machine Scale Sets
+1. Azure Functions
+1. Azure Container Service
+1. Azure Container Instances
+1. Azure Batch
+1. Azure Service Fabric
 1. Azure Virtual Network
 1. Azure Load Balancer
 1. Azure Application Gateway
