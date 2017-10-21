@@ -271,6 +271,9 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 #### Similar Services
 #### Important Links
 #### Tools + Repos + Labs
+
+- [awslabs/ec2-scheduler](https://github.com/awslabs/ec2-scheduler) - The EC2 Scheduler uses a recurring Lambda function to automatically start and stop EC2 instances based on either default schedule or custom schedule defined per EC2 instance.
+
 #### Price
 #### Video
 #### Important
@@ -301,6 +304,9 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 #### Similar Services
 #### Important Links
 #### Tools + Repos + Labs
+
+- [awslabs/ecs-deep-learning-workshop](https://github.com/awslabs/ecs-deep-learning-workshop) - Deploy a Deep Learning Framework on Amazon ECS and EC2 Spot Instances
+
 #### Price
 #### Video
 #### Important
@@ -334,6 +340,9 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 #### Similar Services
 #### Important Links
 #### Tools + Repos + Labs
+
+- [awslabs/eb-demo-php-simple-app](https://github.com/awslabs/eb-demo-php-simple-app) - This demo app shows you how to run a simple PHP application on AWS Elastic Beanstalk 
+
 #### Price
 #### Video
 #### Important
@@ -487,6 +496,9 @@ A web service that lets you run code without provisioning or managing servers. Y
 #### Similar Services
 #### Important Links
 #### Tools + Repos + Labs
+
+- [awslabs/aws-redshift-spectrum-poc](https://github.com/awslabs/aws-redshift-spectrum-poc) - Data Lake to Data Warehouse: Enhancing Customer 360 with Amazon Redshift Spectrum
+
 #### Price
 #### Video
 #### Important
@@ -546,6 +558,9 @@ A web service that lets you run code without provisioning or managing servers. Y
 #### Similar Services
 #### Important Links
 #### Tools + Repos + Labs
+
+- [awslabs/aws-vpc-flow-log-appender](https://github.com/awslabs/aws-vpc-flow-log-appender) - Sample code to append additional information (e.g. Security Group IDs and geolocation data) to VPC Flow Logs for analysis in Elasticsearch.
+
 #### Price
 #### Video
 #### Important
@@ -676,6 +691,9 @@ A web service that simplifies establishing a dedicated network connection from y
 #### Similar Services
 #### Important Links
 #### Tools + Repos + Labs
+
+- [awslabs/golang-deployment-pipeline](https://github.com/awslabs/golang-deployment-pipeline) - Deployment Pipeline for Go Applications on AWS
+
 #### Price
 #### Video
 #### Important
@@ -686,6 +704,9 @@ A web service that simplifies establishing a dedicated network connection from y
 #### Similar Services
 #### Important Links
 #### Tools + Repos + Labs
+
+- [awslabs/golang-deployment-pipeline](https://github.com/awslabs/golang-deployment-pipeline) - Deployment Pipeline for Go Applications on AWS
+
 #### Price
 #### Video
 #### Important
@@ -696,6 +717,9 @@ A web service that simplifies establishing a dedicated network connection from y
 #### Similar Services
 #### Important Links
 #### Tools + Repos + Labs
+
+- [awslabs/golang-deployment-pipeline](https://github.com/awslabs/golang-deployment-pipeline) - Deployment Pipeline for Go Applications on AWS
+
 #### Price
 #### Video
 #### Important
@@ -721,6 +745,20 @@ A web service that simplifies establishing a dedicated network connection from y
 ### Amazon CloudWatch Logs
 ### Amazon EC2 Systems Manager
 ### AWS CloudFormation
+
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+
+- [awslabs/aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates) - A collection of useful CloudFormation templates
+- [awslabs/golang-deployment-pipeline](https://github.com/awslabs/golang-deployment-pipeline) - Deployment Pipeline for Go Applications on AWS 
+
+#### Price
+#### Video
+#### Important
+#### History
+
 ### AWS CloudTrail
 ### AWS Personal Health Dashboard
 ### AWS Config
@@ -829,6 +867,20 @@ A web service that simplifies establishing a dedicated network connection from y
 ### Amazon CloudSearch
 ### Amazon Elasticsearch Service
 ### Amazon Kinesis
+
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+
+- [awslabs/amazon-kinesis-data-generator](https://github.com/awslabs/amazon-kinesis-data-generator) - A UI that simplifies testing with Amazon Kinesis Streams and Firehose.
+
+#### Price
+#### Video
+#### Important
+#### History
+
+
 ### Amazon QuickSight
 ### AWS Data Pipeline
 ### AWS Glue
@@ -910,6 +962,10 @@ An account management service that enables you to consolidate multiple AWS accou
 #### Similar Services
 #### Important Links
 #### Tools + Repos + Labs
+
+- [awslabs/aws-cognito-apigw-angular-auth](https://github.com/awslabs/aws-cognito-apigw-angular-auth) - A simple/sample AngularV4-based web app that demonstrates different API authentication options using Amazon Cognito
+
+
 #### Price
 #### Video
 #### Important
@@ -920,6 +976,10 @@ An account management service that enables you to consolidate multiple AWS accou
 #### Similar Services
 #### Important Links
 #### Tools + Repos + Labs
+
+- [awslabs/aws-pinpoint-sample](https://github.com/awslabs/aws-pinpoint-sample) - Targeted push notifications and campaign management using Amazon Pinpoint and React Native
+
+
 #### Price
 #### Video
 #### Important
