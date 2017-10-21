@@ -321,6 +321,9 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 #### Similar Services
 #### Important Links
 #### Tools + Repos + Labs
+
+- [awslabs/aws-batch-genomics](https://github.com/awslabs/aws-batch-genomics) - Software sets up and runs an genome sequencing analysis workflow using AWS Batch and AWS Step Functions.
+
 #### Price
 #### Video
 #### Important
@@ -552,6 +555,9 @@ A web service that lets you run code without provisioning or managing servers. Y
 #### Description
 #### Similar Services
 #### Important Links
+
+- [Default Directory Indexes in Amazon S3-backed Amazon CloudFront Origins Using Lambda@Edge](https://aws.amazon.com/blogs/compute/implementing-default-directory-indexes-in-amazon-s3-backed-amazon-cloudfront-origins-using-lambdaedge/)
+
 #### Tools + Repos + Labs
 #### Price
 #### Video
@@ -969,6 +975,7 @@ An account management service that enables you to consolidate multiple AWS accou
 #### Tools + Repos + Labs
 
 - [awslabs/video-on-demand-on-aws](https://github.com/awslabs/video-on-demand-on-aws) - An automated reference implementation leveraging AWS Step Functions and Elastic Transcoder to deploy a scalable fault tolerant Video on demand workflow
+- [awslabs/aws-batch-genomics](https://github.com/awslabs/aws-batch-genomics) - Software sets up and runs an genome sequencing analysis workflow using AWS Batch and AWS Step Functions.
 
 #### Price
 #### Video
@@ -1266,6 +1273,18 @@ An account management service that enables you to consolidate multiple AWS accou
 ### Google App Engine	
 ### Google Container Engine
 ### Google Functions
+
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+
+- [Building an image recognition endpoint with Serverless and Google Cloud Functions](https://serverless.com/blog/google-cloud-functions-application/)
+
+#### Price
+#### Video
+#### Important
+#### History
 
 ## STORAGE
 
