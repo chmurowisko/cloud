@@ -732,12 +732,26 @@ A web service that simplifies establishing a dedicated network connection from y
 #### Tools + Repos + Labs
 
 - [awslabs/aws-lex-web-ui](https://github.com/awslabs/aws-lex-web-ui) - Sample Amazon Lex chat bot web interface
+- [Allergy Checker with Amazon Rekognition, Lex, Polly, DynamoDB, S3 and Lambda](https://medium.com/@ceyhun.ozgun/serverless-allergy-checker-with-amazon-rekognition-lex-polly-dynamodb-s3-and-lambda-35fd215b51b0)
 
 #### Price
 #### Video
 #### Important
 #### History
 ### Amazon Polly
+
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+
+- [Allergy Checker with Amazon Rekognition, Lex, Polly, DynamoDB, S3 and Lambda](https://medium.com/@ceyhun.ozgun/serverless-allergy-checker-with-amazon-rekognition-lex-polly-dynamodb-s3-and-lambda-35fd215b51b0)
+
+#### Price
+#### Video
+#### Important
+#### History
+
 ### Amazon Rekognition
 
 #### Description
@@ -747,6 +761,9 @@ A web service that simplifies establishing a dedicated network connection from y
 #### Similar Services
 #### Important Links
 #### Tools + Repos + Labs
+
+- [Allergy Checker with Amazon Rekognition, Lex, Polly, DynamoDB, S3 and Lambda](https://medium.com/@ceyhun.ozgun/serverless-allergy-checker-with-amazon-rekognition-lex-polly-dynamodb-s3-and-lambda-35fd215b51b0)
+
 #### Price
 #### Video
 #### Important
@@ -795,7 +812,6 @@ A web service that simplifies establishing a dedicated network connection from y
 - 2015.08.27 - [Estimate the Cost of Your Predictions in Amazon Machine Learning](https://aws.amazon.com/about-aws/whats-new/2015/08/estimate-the-cost-of-your-predictions-in-amazon-machine-learning/)
 - 2015.08.20 - [Amazon Machine Learning Now Available in EU (Ireland) AWS Region](https://aws.amazon.com/about-aws/whats-new/2015/08/amazon-machine-learning-now-available-in-eu-ireland-aws-region/)
 - 2015.04.09 - [Introducing Amazon Machine Learning](https://aws.amazon.com/about-aws/whats-new/2015/04/introducing-amazon-machine-learning/)
-
 
 
 
