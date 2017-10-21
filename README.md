@@ -131,39 +131,50 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. Google Cloud Datastore
 1. Google Cloud SQL
 1. Google Cloud Persistent Disk
+1. Google Transfer Appliance
+1. Google Storage Transfer Service
+1. Google BigQuery Data Transfer Service
 1. Google Cloud Virtual Network
 1. Google Cloud Load Balancing
 1. Google Cloud CDN
 1. Google Cloud Interconnect
 1. Google Cloud DNS 
+1. Google Cloud Network Service Tiers
 1. Google BigQuery
 1. Google Cloud Dataflow	
 1. Google Cloud Dataproc
 1. Google Cloud Datalab
+1. Google Cloud Dataprep
 1. Google Cloud Pub/Sub
 1. Google Genomics
 1. Google Data Studio
 1. Google Machine Learning Engine
+1. Google Cloud Job Discovery
 1. Google Vision API
 1. Google Natural Language API
 1. Google Speech API
 1. Google Translation API
+1. Google Cloud Video Intelligence API
 1. Stackdriver Monitoring
 1. Stackdriver Logging
 1. Stackdriver Error Reporting
 1. Stackdriver Trace
 1. Stackdriver Debugger
 1. Google Cloud Deployment Manager
-1. Google Cloud Enpoints
+1. Google Cloud Endpoints
 1. Google Cloud Shell
-1. Google Cloud Billing API (?)
 1. Google Cloud Source Repositories
 1. Google Cloud Resource Manager
 1. Google Cloud Container Builder
 1. Google Container Registry	
 1. Google Cloud IAM
+1. Google Cloud Identity-Aware Proxy
+1. Google Cloud Loss Prevention API
+1. Google Security Key Enforcement
 1. Google Cloud Key Management Service
 1. Google Cloud Resource Manager 
+1. Google Cloud Security Scanner
+1. Google Cloud IoT Core
 
 # AMAZON WEB SERVICES
 
@@ -1011,6 +1022,12 @@ An account management service that enables you to consolidate multiple AWS accou
 ### Google Cloud SQL
 ### Google Cloud Persistent Disk
 
+## DATA TRANSFER
+
+### Google Transfer Appliance
+### Google Storage Transfer Service
+### Google BigQuery Data Transfer Service
+
 ## NETWORKING
 
 ### Google Cloud Virtual Network
@@ -1018,6 +1035,7 @@ An account management service that enables you to consolidate multiple AWS accou
 ### Google Cloud CDN
 ### Google Cloud Interconnect
 ### Google Cloud DNS 
+### Google Cloud Network Service Tiers
 
 ## BIG DATA
 
@@ -1025,6 +1043,7 @@ An account management service that enables you to consolidate multiple AWS accou
 ### Google Cloud Dataflow	
 ### Google Cloud Dataproc
 ### Google Cloud Datalab
+### Google Cloud Dataprep
 ### Google Cloud Pub/Sub
 ### Google Genomics
 ### Google Data Studio
@@ -1032,10 +1051,13 @@ An account management service that enables you to consolidate multiple AWS accou
 ## MACHINE LEARNING
 
 ### Google Machine Learning Engine
+### Google Cloud Job Discovery
 ### Google Vision API
 ### Google Natural Language API
 ### Google Speech API
 ### Google Translation API
+### Google Cloud Video Intelligence API
+
 
 ## MANAGEMENT TOOLS
 
@@ -1045,7 +1067,7 @@ An account management service that enables you to consolidate multiple AWS accou
 ### Stackdriver Trace
 ### Stackdriver Debugger
 ### Google Cloud Deployment Manager
-### Google Cloud Enpoints
+### Google Cloud Endpoints
 ### Google Cloud Shell
 
 ## DEVELOPER TOOLS
@@ -1058,11 +1080,29 @@ An account management service that enables you to consolidate multiple AWS accou
 ## IDENTITY AND SECURITY
 
 ### Google Cloud IAM
+### Google Cloud Identity-Aware Proxy
+### Google Cloud Loss Prevention API
+### Google Security Key Enforcement
 ### Google Cloud Key Management Service
 ### Google Cloud Resource Manager 
+### Google Cloud Security Scanner
+
+## INTERNET OF THINGS
+
+### Google Cloud IoT Core
 
 ## OTHER GCP TOOLS/LIBRARIES
 
 ### Google Cloud Billing API
+### Google Cloud Console
+### Google Cloud Mobile App
 
+### SDK
 
+#### Go
+#### Java
+#### Node.js
+#### Python
+#### Ruby
+#### PHP
+#### C#
