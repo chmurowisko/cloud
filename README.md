@@ -172,6 +172,7 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. Azure Cognitive Services - Web Language Model API
 1. Azure Batch AI
 1. Azure IoT Hub
+1. Azure IoT Edge
 1. Azure Time Series Insights
 1. Azure Event Hubs
 1. Azure Event Grid
@@ -193,6 +194,7 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. Azure Log Analytics
 1. Azure Monitor
 1. Azure Policy
+1. Azure Resource Manager
 
 **SERVICES GCP**
 
@@ -1129,6 +1131,7 @@ An account management service that enables you to consolidate multiple AWS accou
 ## INTERNET OF THINGS
 
 ### Azure IoT Hub
+### Azure IoT Edge
 ### Azure Time Series Insights
 ### Azure Event Hubs
 
@@ -1162,8 +1165,13 @@ An account management service that enables you to consolidate multiple AWS accou
 ### Azure Log Analytics
 ### Azure Monitor
 ### Azure Policy
+### Azure Resource Manager
 
 ## OTHER AZURE TOOLS/LIBRARIES
+
+### Azure Portal
+### Azure Mobile App
+ 
 
 # GOOGLE CLOUD PLATFORM
 
