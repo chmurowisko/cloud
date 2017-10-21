@@ -998,71 +998,71 @@ An account management service that enables you to consolidate multiple AWS accou
 ## COMPUTE
 
 ### Google Compute Engine
-### Google App Engine
+### Google App Engine	
 ### Google Container Engine
-### Goole Cloud Functions
+### Google Functions
 
 ## STORAGE
 
 ### Google Cloud Storage
-### Google Persistent Disk
-
-## DATABASE 
-
-### Google Cloud SQL
 ### Google Cloud Bigtable
 ### Google Cloud Spanner
 ### Google Cloud Datastore
-
-## MIGRATION
-
-### Google Transfer Appliance
-### Cloud Storage Transfer Service
-### Google BigQuery Data Transfer Service
+### Google Cloud SQL
+### Google Cloud Persistent Disk
 
 ## NETWORKING
 
-## DEVELOPER TOOLS
+### Google Cloud Virtual Network
+### Google Cloud Load Balancing
+### Google Cloud CDN
+### Google Cloud Interconnect
+### Google Cloud DNS 
 
-## MANAGEMENT
-
-## ARTIFICIAL INTELLIGENCE
-
-## ANALYTICS
+## BIG DATA
 
 ### Google BigQuery
-### Google Cloud Dataflow
+### Google Cloud Dataflow	
 ### Google Cloud Dataproc
 ### Google Cloud Datalab
-### Google Cloud Dataprep
+### Google Cloud Pub/Sub
 ### Google Genomics
 ### Google Data Studio
 
-## INTERNET OF THINGS
+## MACHINE LEARNING
 
-### Google Cloud IoT Core
+### Google Machine Learning Engine
+### Google Vision API
+### Google Natural Language API
+### Google Speech API
+### Google Translation API
 
-## SECURITY + IDENTITY + COMPLIANCE
+## MANAGEMENT TOOLS
 
-### Cloud IAM
-### Cloud Identity-Aware Proxy
-### Cloud Data Loss Prevention API
-### Google Security Key Enforcement
-### Google Cloud Key Management Service
+### Stackdriver Monitoring
+### Stackdriver Logging
+### Stackdriver Error Reporting
+### Stackdriver Trace
+### Stackdriver Debugger
+### Google Cloud Deployment Manager
+### Google Cloud Enpoints
+### Google Cloud Shell
+
+## DEVELOPER TOOLS
+
+### Google Cloud Source Repositories
 ### Google Cloud Resource Manager
-### Google Cloud Security Scanner
+### Google Cloud Container Builder
+### Google Container Registry	
 
-## WEB + MOBILE
+## IDENTITY AND SECURITY
 
-## MESSAGING
-
-### Google Cloud Pub/Sub
-
-## BUSINESS PRODUCTIVITY
-
-## DESKTOP & APP STREAMING
+### Google Cloud IAM
+### Google Cloud Key Management Service
+### Google Cloud Resource Manager 
 
 ## OTHER GCP TOOLS/LIBRARIES
 
+### Google Cloud Billing API
 
 
