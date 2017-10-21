@@ -545,6 +545,18 @@ A web service that simplifies establishing a dedicated network connection from y
 ## ARTIFICIAL INTELLIGENCE
 
 ### Amazon Lex
+
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+
+- [awslabs/aws-lex-web-ui](https://github.com/awslabs/aws-lex-web-ui) - Sample Amazon Lex chat bot web interface
+
+#### Price
+#### Video
+#### Important
+#### History
 ### Amazon Polly
 ### Amazon Rekognition
 
