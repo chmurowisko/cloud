@@ -944,6 +944,9 @@ An account management service that enables you to consolidate multiple AWS accou
 #### Similar Services
 #### Important Links
 #### Tools + Repos + Labs
+
+- [awslabs/video-on-demand-on-aws](https://github.com/awslabs/video-on-demand-on-aws) - An automated reference implementation leveraging AWS Step Functions and Elastic Transcoder to deploy a scalable fault tolerant Video on demand workflow
+
 #### Price
 #### Video
 #### Important
@@ -964,6 +967,9 @@ An account management service that enables you to consolidate multiple AWS accou
 #### Similar Services
 #### Important Links
 #### Tools + Repos + Labs
+
+- [awslabs/video-on-demand-on-aws](https://github.com/awslabs/video-on-demand-on-aws) - An automated reference implementation leveraging AWS Step Functions and Elastic Transcoder to deploy a scalable fault tolerant Video on demand workflow
+
 #### Price
 #### Video
 #### Important
