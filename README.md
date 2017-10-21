@@ -732,7 +732,7 @@ A web service that simplifies establishing a dedicated network connection from y
 #### Tools + Repos + Labs
 
 - [awslabs/aws-lex-web-ui](https://github.com/awslabs/aws-lex-web-ui) - Sample Amazon Lex chat bot web interface
-- [Allergy Checker with Amazon Rekognition, Lex, Polly, DynamoDB, S3 and Lambda](https://medium.com/@ceyhun.ozgun/serverless-allergy-checker-with-amazon-rekognition-lex-polly-dynamodb-s3-and-lambda-35fd215b51b0)
+- [Aceyhunozgun/serverlessAllergyChecker](https://github.com/ceyhunozgun/serverlessAllergyChecker) - [Allergy Checker with Amazon Rekognition, Lex, Polly, DynamoDB, S3 and Lambda](https://medium.com/@ceyhun.ozgun/serverless-allergy-checker-with-amazon-rekognition-lex-polly-dynamodb-s3-and-lambda-35fd215b51b0)
 
 #### Price
 #### Video
@@ -745,7 +745,7 @@ A web service that simplifies establishing a dedicated network connection from y
 #### Important Links
 #### Tools + Repos + Labs
 
-- [Allergy Checker with Amazon Rekognition, Lex, Polly, DynamoDB, S3 and Lambda](https://medium.com/@ceyhun.ozgun/serverless-allergy-checker-with-amazon-rekognition-lex-polly-dynamodb-s3-and-lambda-35fd215b51b0)
+- [Aceyhunozgun/serverlessAllergyChecker](https://github.com/ceyhunozgun/serverlessAllergyChecker) - [Allergy Checker with Amazon Rekognition, Lex, Polly, DynamoDB, S3 and Lambda](https://medium.com/@ceyhun.ozgun/serverless-allergy-checker-with-amazon-rekognition-lex-polly-dynamodb-s3-and-lambda-35fd215b51b0)
 
 #### Price
 #### Video
@@ -762,7 +762,7 @@ A web service that simplifies establishing a dedicated network connection from y
 #### Important Links
 #### Tools + Repos + Labs
 
-- [Allergy Checker with Amazon Rekognition, Lex, Polly, DynamoDB, S3 and Lambda](https://medium.com/@ceyhun.ozgun/serverless-allergy-checker-with-amazon-rekognition-lex-polly-dynamodb-s3-and-lambda-35fd215b51b0)
+- [Aceyhunozgun/serverlessAllergyChecker](https://github.com/ceyhunozgun/serverlessAllergyChecker) - [Allergy Checker with Amazon Rekognition, Lex, Polly, DynamoDB, S3 and Lambda](https://medium.com/@ceyhun.ozgun/serverless-allergy-checker-with-amazon-rekognition-lex-polly-dynamodb-s3-and-lambda-35fd215b51b0)
 
 #### Price
 #### Video
