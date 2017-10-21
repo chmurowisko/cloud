@@ -11,6 +11,7 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 **SERVICES AWS**
 
 1. [Amazon EC2](#amazon-ec2)
+1. AWS Autoscaling
 1. [Amazon EC2 Container Registry](#amazon-ec2-container-registry)
 1. [Amazon EC2 Container Service](#amazon-ec2-container-service)
 1. [Amazon Lightsail](#amazon-lightsail)
@@ -22,7 +23,9 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. Amazon Elastic File System (EFS)
 1. Amazon Glacier
 1. AWS Storage Gateway
+1. Amazon Aurora
 1. Amazon RDS
+1. Amazon SimpleDB	
 1. Amazon DynamoDB
 1. Amazon DynamoDB Accelerator (DAX)
 1. Amazon ElastiCache
@@ -34,6 +37,7 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. AWS Snowball
 1. AWS Snowball Edge
 1. AWS Snowmobile
+1. AWS VM Import/Export 
 1. Amazon VPC
 1. Amazon CloudFront
 1. Amazon Route 53
@@ -46,11 +50,15 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. AWS CodePipeline
 1. AWS X-Ray
 1. Amazon CloudWatch
+1. Amazon CloudWatch Events
+1. Amazon CloudWatch Logs
 1. Amazon EC2 Systems Manager
 1. AWS CloudFormation
 1. AWS CloudTrail
+1. AWS Personal Health Dashboard
 1. AWS Config
-1. AWS OpsWorks
+1. AWS OpsWorks Stacks	
+1. AWS OpsWorks for Chef Automate	
 1. AWS Service Catalog
 1. AWS Trusted Advisor
 1. AWS Personal Health Dashboard
@@ -87,6 +95,7 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. AWS Device Farm
 1. Amazon API Gateway
 1. Amazon Elastic Transcoder
+1. Amazon Simple Workflow Service (SWF) 
 1. AWS Step Functions
 1. Amazon Simple Queue Service (SQS)
 1. Amazon Simple Notification Service (SNS)
@@ -267,6 +276,16 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 #### Important
 #### History
 
+### AWS Autoscaling
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
 ### Amazon EC2 Container Registry
 #### Description
 #### Similar Services
@@ -400,7 +419,27 @@ A web service that lets you run code without provisioning or managing servers. Y
 
 ## DATABASE
 
+### Amazon Aurora
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
 ### Amazon RDS
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### Amazon SimpleDB	
 #### Description
 #### Similar Services
 #### Important Links
@@ -487,6 +526,15 @@ A web service that lets you run code without provisioning or managing servers. Y
 #### Important
 #### History
 
+### AWS VM Import/Export 
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
 
 ## NETWORKING
 
@@ -657,16 +705,18 @@ A web service that simplifies establishing a dedicated network connection from y
 #### Important
 #### History
 
-
-
 ## MANAGEMENT
 
 ### Amazon CloudWatch
+### Amazon CloudWatch Events
+### Amazon CloudWatch Logs
 ### Amazon EC2 Systems Manager
 ### AWS CloudFormation
 ### AWS CloudTrail
+### AWS Personal Health Dashboard
 ### AWS Config
-### AWS OpsWorks
+### AWS OpsWorks Stacks	
+### AWS OpsWorks for Chef Automate	
 ### AWS Service Catalog
 ### AWS Trusted Advisor
 ### AWS Personal Health Dashboard
@@ -871,6 +921,16 @@ An account management service that enables you to consolidate multiple AWS accou
 #### History
 
 ### Amazon Elastic Transcoder
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+#### Price
+#### Video
+#### Important
+#### History
+
+### Amazon Simple Workflow Service (SWF)	
 #### Description
 #### Similar Services
 #### Important Links
