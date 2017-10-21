@@ -700,6 +700,9 @@ A web service that simplifies establishing a dedicated network connection from y
 #### Similar Services
 #### Important Links
 #### Tools + Repos + Labs
+
+- [awslabs/aws-xray-rekognition-lambda-sample](https://github.com/awslabs/aws-xray-rekognition-lambda-sample) - Sample demonstrating AWS X-Ray instrumentation on Amazon Rekognition apps written on AWS Lambda
+
 #### Price
 #### Video
 #### Important
