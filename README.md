@@ -102,15 +102,10 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 
 **SERVICES AZURE**
 
-## COMPUTE
-
 1. Azure Virtual Machines
 1. Azure Cloud Services
 1. Azure Virtual Machine Scale Sets
 1. Azure Functions
-
-## NETWORKING
-
 1. Azure Content Delivery Network
 1. Azure ExpressRoute
 1. Azure DDoS Protection
@@ -121,16 +116,10 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. Azure VPN Gateway
 1. Azure Application Gateway
 1. Azure Network Watcher 
-
-## STORAGE
-
 1. Azure Storage 
 1. Azure Backup
 1. Azure StorSimple
 1. Azure Managed Disks
-
-## WEB & MOBILE
-
 1. Azure App Service
 1. Azure API Management
 1. Azure Media Services
@@ -138,17 +127,11 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. Azure Mobile Engagement
 1. Azure Logic Apps
 1. Azure Notification Hubs
-
-## CONTAINERS
-
 1. Azure Batch
 1. Azure Container Registry
 1. Azure Container Instances
 1. Azure Service Fabric
 1. Azure Container Service
-
-## DATABASES
-
 1. Azure SQL Database
 1. Azure SQL Data Warehouse
 1. Azure Cosmos DB
@@ -156,9 +139,6 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. SQL Server Stretch Database
 1. Azure Database for MySQL
 1. Azure Database for PostgreSQL
-
-## DATA & ANALYTICS
-
 1. Azure HDInsight
 1. Azure Stream Analytics
 1. Azure Data Factory
@@ -167,9 +147,6 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. Azure Data Lake Analytics
 1. Azure Analysis Services
 1. Power BI Embedded
-
-## A.I. & COGNITIVE SERVICES
-
 1. Azure Machine Learning Studio
 1. Azure Bot Service
 1. Azure Cognitive Services - Academic Knowledge API
@@ -194,35 +171,20 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. Azure Cognitive Services - Translator Text API
 1. Azure Cognitive Services - Web Language Model API
 1. Azure Batch AI
-
-## INTERNET OF THINGS
-
 1. Azure IoT Hub
 1. Azure Time Series Insights
 1. Azure Event Hubs
-
-## ENTERPRISE INTEGRATION
-
 1. Azure Event Grid
 1. Azure Service Bus
-
-## SECURITY & IDENTITY
-
 1. Azure Active Directory
 1. Azure Multi-Factor Authentication
 1. Azure Active Directory Domain Services
 1. Azure Key Vault
 1. Azure Active Directory B2C
 1. Security Center
-
-## DEVELOPER TOOLS
-
 1. Visual Studio Team Services
 1. Azure DevTest Labs
 1. HockeyApp
-
-## MONITORING & MANAGEMENT
-
 1. Azure Advisor
 1. Azure Site Recovery
 1. Azure Event Grid
@@ -231,7 +193,6 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. Azure Log Analytics
 1. Azure Monitor
 1. Azure Policy
-
 
 **SERVICES GCP**
 
@@ -1003,45 +964,14 @@ An account management service that enables you to consolidate multiple AWS accou
 
 ## COMPUTE
 
-## STORAGE
-
-## DATABASE 
-
-### Azure SQL Database
-
-#### Description
-
-#### Similar Services
-
-- AWS => [Amazon Relational Database Service (RDS)](https://aws.amazon.com/rds/)
-- GCP => [Google Cloud SQL](https://cloud.google.com/sql/)
-- GCP => [Google Cloud Spanner](https://cloud.google.com/spanner/)
-
-#### Important Links
-
-#### Tools + Repos + Labs
-
-- [Microsoft/WingtipSaaS](https://github.com/Microsoft/WingtipSaaS) - A sample SaaS application and associated tutorials, built on Azure App Service and Azure SQL Database.
-
-#### Price
-
-#### Video
-
-#### Important
-
-#### History
-
-## MIGRATION
+### Azure Virtual Machines
+### Azure Cloud Services
+### Azure Virtual Machine Scale Sets
+### Azure Functions
 
 ## NETWORKING
 
-### Azure Virtual Network
-### Azure Load Balancer
-### Azure Application Gateway
-### Azure VPN Gateway
-### Azure DNS
 ### Azure Content Delivery Network
-### Azure Traffic Manager
 ### Azure ExpressRoute
 
 #### Description
@@ -1071,24 +1001,23 @@ An account management service that enables you to consolidate multiple AWS accou
 - 2014.02.21 - [New service: ExpressRoute (Preview)](https://azure.microsoft.com/en-us/updates/expressroute-preview/)
 
 
-
 ### Azure DDoS Protection
+### Azure DNS
+### Azure Virtual Network
+### Azure Traffic Manager
+### Azure Load Balancer
+### Azure VPN Gateway
+### Azure Application Gateway
+### Azure Network Watcher 
 
-## DEVELOPER TOOLS
+## STORAGE
 
-## MANAGEMENT
+1. Azure Storage 
+1. Azure Backup
+1. Azure StorSimple
+1. Azure Managed Disks
 
-## ARTIFICIAL INTELLIGENCE
-
-## ANALYTICS
-
-## INTERNET OF THINGS
-
-## SECURITY + IDENTITY + COMPLIANCE
-
-## WEB + MOBILE
-
-
+## WEB & MOBILE
 
 ### Azure App Service
 
@@ -1110,11 +1039,129 @@ An account management service that enables you to consolidate multiple AWS accou
 
 #### History
 
-## MESSAGING
 
-## BUSINESS PRODUCTIVITY
+### Azure API Management
+### Azure Media Services
+### Azure Search
+### Azure Mobile Engagement
+### Azure Logic Apps
+### Azure Notification Hubs
 
-## DESKTOP & APP STREAMING
+## CONTAINERS
+
+### Azure Batch
+### Azure Container Registry
+### Azure Container Instances
+### Azure Service Fabric
+### Azure Container Service
+
+## DATABASES
+
+### Azure SQL Database
+
+#### Description
+
+#### Similar Services
+
+- AWS => [Amazon Relational Database Service (RDS)](https://aws.amazon.com/rds/)
+- GCP => [Google Cloud SQL](https://cloud.google.com/sql/)
+- GCP => [Google Cloud Spanner](https://cloud.google.com/spanner/)
+
+#### Important Links
+
+#### Tools + Repos + Labs
+
+- [Microsoft/WingtipSaaS](https://github.com/Microsoft/WingtipSaaS) - A sample SaaS application and associated tutorials, built on Azure App Service and Azure SQL Database.
+
+#### Price
+
+#### Video
+
+#### Important
+
+#### History
+
+### Azure SQL Data Warehouse
+### Azure Cosmos DB
+### Azure Redis Cache
+### SQL Server Stretch Database
+### Azure Database for MySQL
+### Azure Database for PostgreSQL
+
+## DATA & ANALYTICS
+
+### Azure HDInsight
+### Azure Stream Analytics
+### Azure Data Factory
+### Azure Data Catalog
+### Azure Data Lake Store
+### Azure Data Lake Analytics
+### Azure Analysis Services
+### Power BI Embedded
+
+## A.I. & COGNITIVE SERVICES
+
+### Azure Machine Learning Studio
+### Azure Bot Service
+### Azure Cognitive Services - Academic Knowledge API
+### Azure Cognitive Services - Bing Autosuggest API
+### Azure Cognitive Services - Bing Custom Search API
+### Azure Cognitive Services - Bing Image Search API
+### Azure Cognitive Services - Bing News Search API
+### Azure Cognitive Services - Bing Speech API
+### Azure Cognitive Services - Bing Spell Check API
+### Azure Cognitive Services - Bing Video Search API
+### Azure Cognitive Services - Bing Web Search API
+### Azure Cognitive Services - Computer Vision API
+### Azure Cognitive Services - Content Moderator
+### Azure Cognitive Services - Custom Speech Service
+### Azure Cognitive Services - Emotion API
+### Azure Cognitive Services - Face API
+### Azure Cognitive Services - Language Understanding Intelligent Service
+### Azure Cognitive Services - Recommendations API
+### Azure Cognitive Services - Speaker Recognition API
+### Azure Cognitive Services - Text Analytics API
+### Azure Cognitive Services - Translator Speech API
+### Azure Cognitive Services - Translator Text API
+### Azure Cognitive Services - Web Language Model API
+### Azure Batch AI
+
+## INTERNET OF THINGS
+
+### Azure IoT Hub
+### Azure Time Series Insights
+### Azure Event Hubs
+
+## ENTERPRISE INTEGRATION
+
+### Azure Event Grid
+### Azure Service Bus
+
+## SECURITY & IDENTITY
+
+### Azure Active Directory
+### Azure Multi-Factor Authentication
+### Azure Active Directory Domain Services
+### Azure Key Vault
+### Azure Active Directory B2C
+### Security Center
+
+## DEVELOPER TOOLS
+
+### Visual Studio Team Services
+### Azure DevTest Labs
+### HockeyApp
+
+## MONITORING & MANAGEMENT
+
+### Azure Advisor
+### Azure Site Recovery
+### Azure Event Grid
+### Azure Scheduler
+### Azure Automation
+### Azure Log Analytics
+### Azure Monitor
+### Azure Policy
 
 ## OTHER AZURE TOOLS/LIBRARIES
 
