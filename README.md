@@ -122,6 +122,48 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 **SERVICES GCP**
 
 1. Google Compute Engine
+1. Google App Engine	
+1. Google Container Engine
+1. Google Functions
+1. Google Cloud Storage
+1. Google Cloud Bigtable
+1. Google Cloud Spanner
+1. Google Cloud Datastore
+1. Google Cloud SQL
+1. Google Cloud Persistent Disk
+1. Google Cloud Virtual Network
+1. Google Cloud Load Balancing
+1. Google Cloud CDN
+1. Google Cloud Interconnect
+1. Google Cloud DNS 
+1. Google BigQuery
+1. Google Cloud Dataflow	
+1. Google Cloud Dataproc
+1. Google Cloud Datalab
+1. Google Cloud Pub/Sub
+1. Google Genomics
+1. Google Data Studio
+1. Google Machine Learning Engine
+1. Google Vision API
+1. Google Natural Language API
+1. Google Speech API
+1. Google Translation API
+1. Stackdriver Monitoring
+1. Stackdriver Logging
+1. Stackdriver Error Reporting
+1. Stackdriver Trace
+1. Stackdriver Debugger
+1. Google Cloud Deployment Manager
+1. Google Cloud Enpoints
+1. Google Cloud Shell
+1. Google Cloud Billing API (?)
+1. Google Cloud Source Repositories
+1. Google Cloud Resource Manager
+1. Google Cloud Container Builder
+1. Google Container Registry	
+1. Google Cloud IAM
+1. Google Cloud Key Management Service
+1. Google Cloud Resource Manager 
 
 # AMAZON WEB SERVICES
 
