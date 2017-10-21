@@ -102,22 +102,136 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 
 **SERVICES AZURE**
 
+## COMPUTE
+
 1. Azure Virtual Machines
+1. Azure Cloud Services
 1. Azure Virtual Machine Scale Sets
 1. Azure Functions
-1. Azure Container Service
-1. Azure Container Instances
-1. Azure Batch
-1. Azure Service Fabric
-1. Azure Virtual Network
-1. Azure Load Balancer
-1. Azure Application Gateway
-1. Azure VPN Gateway
-1. Azure DNS
+
+## NETWORKING
+
 1. Azure Content Delivery Network
-1. Azure Traffic Manager
 1. Azure ExpressRoute
 1. Azure DDoS Protection
+1. Azure DNS
+1. Azure Virtual Network
+1. Azure Traffic Manager
+1. Azure Load Balancer
+1. Azure VPN Gateway
+1. Azure Application Gateway
+1. Azure Network Watcher 
+
+## STORAGE
+
+1. Azure Storage 
+1. Azure Backup
+1. Azure StorSimple
+1. Azure Managed Disks
+
+## WEB & MOBILE
+
+1. Azure App Service
+1. Azure API Management
+1. Azure Media Services
+1. Azure Search
+1. Azure Mobile Engagement
+1. Azure Logic Apps
+1. Azure Notification Hubs
+
+## CONTAINERS
+
+1. Azure Batch
+1. Azure Container Registry
+1. Azure Container Instances
+1. Azure Service Fabric
+1. Azure Container Service
+
+## DATABASES
+
+1. Azure SQL Database
+1. Azure SQL Data Warehouse
+1. Azure Cosmos DB
+1. Azure Redis Cache
+1. SQL Server Stretch Database
+1. Azure Database for MySQL
+1. Azure Database for PostgreSQL
+
+## DATA & ANALYTICS
+
+1. Azure HDInsight
+1. Azure Stream Analytics
+1. Azure Data Factory
+1. Azure Data Catalog
+1. Azure Data Lake Store
+1. Azure Data Lake Analytics
+1. Azure Analysis Services
+1. Power BI Embedded
+
+## A.I. & COGNITIVE SERVICES
+
+1. Azure Machine Learning Studio
+1. Azure Bot Service
+1. Azure Cognitive Services - Academic Knowledge API
+1. Azure Cognitive Services - Bing Autosuggest API
+1. Azure Cognitive Services - Bing Custom Search API
+1. Azure Cognitive Services - Bing Image Search API
+1. Azure Cognitive Services - Bing News Search API
+1. Azure Cognitive Services - Bing Speech API
+1. Azure Cognitive Services - Bing Spell Check API
+1. Azure Cognitive Services - Bing Video Search API
+1. Azure Cognitive Services - Bing Web Search API
+1. Azure Cognitive Services - Computer Vision API
+1. Azure Cognitive Services - Content Moderator
+1. Azure Cognitive Services - Custom Speech Service
+1. Azure Cognitive Services - Emotion API
+1. Azure Cognitive Services - Face API
+1. Azure Cognitive Services - Language Understanding Intelligent Service
+1. Azure Cognitive Services - Recommendations API
+1. Azure Cognitive Services - Speaker Recognition API
+1. Azure Cognitive Services - Text Analytics API
+1. Azure Cognitive Services - Translator Speech API
+1. Azure Cognitive Services - Translator Text API
+1. Azure Cognitive Services - Web Language Model API
+1. Azure Batch AI
+
+## INTERNET OF THINGS
+
+1. Azure IoT Hub
+1. Azure Time Series Insights
+1. Azure Event Hubs
+
+## ENTERPRISE INTEGRATION
+
+1. Azure Event Grid
+1. Azure Service Bus
+
+## SECURITY & IDENTITY
+
+1. Azure Active Directory
+1. Azure Multi-Factor Authentication
+1. Azure Active Directory Domain Services
+1. Azure Key Vault
+1. Azure Active Directory B2C
+1. Security Center
+
+## DEVELOPER TOOLS
+
+1. Visual Studio Team Services
+1. Azure DevTest Labs
+1. HockeyApp
+
+## MONITORING & MANAGEMENT
+
+1. Azure Advisor
+1. Azure Site Recovery
+1. Azure Event Grid
+1. Azure Scheduler
+1. Azure Automation
+1. Azure Log Analytics
+1. Azure Monitor
+1. Azure Policy
+
 
 **SERVICES GCP**
 
