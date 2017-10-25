@@ -140,7 +140,7 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. Azure Container Registry
 1. Azure Container Instances
 1. Azure Service Fabric
-1. Azure Container Service
+1. Azure Container Service (AKS)
 1. Azure SQL Database
 1. Azure SQL Data Warehouse
 1. Azure Cosmos DB
@@ -1207,7 +1207,7 @@ An account management service that enables you to consolidate multiple AWS accou
 ### Azure Container Registry
 ### Azure Container Instances
 ### Azure Service Fabric
-### Azure Container Service
+### Azure Container Service (AKS)
 
 ## DATABASES
 
