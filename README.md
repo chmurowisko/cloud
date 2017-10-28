@@ -885,6 +885,19 @@ A web service that simplifies establishing a dedicated network connection from y
 ### AWS Data Pipeline
 ### AWS Glue
 
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+
+- [Build a Data Lake Foundation with AWS Glue and Amazon S3](https://aws.amazon.com/blogs/big-data/build-a-data-lake-foundation-with-aws-glue-and-amazon-s3/)
+
+#### Price
+#### Video
+#### Important
+#### History
+
+
 ## INTERNET OF THINGS
 
 ### AWS IoT Platform
