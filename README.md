@@ -1220,6 +1220,19 @@ An account management service that enables you to consolidate multiple AWS accou
 ### Azure Container Registry
 ### Azure Container Instances
 ### Azure Service Fabric
+
+#### Description
+#### Similar Services
+#### Important Links
+#### Tools + Repos + Labs
+
+- [Scooletz/Fakebook](https://github.com/Scooletz/Fakebook) - A simple (ingore my CSS skills and Web API security holes) application for showing how Service Fabric rocks!
+
+#### Price
+#### Video
+#### Important
+#### History
+
 ### Azure Container Service (AKS)
 
 ## DATABASES
