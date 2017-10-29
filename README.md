@@ -1049,7 +1049,8 @@ An account management service that enables you to consolidate multiple AWS accou
 #### Tools + Repos + Labs
 
 - [awslabs/video-on-demand-on-aws](https://github.com/awslabs/video-on-demand-on-aws) - An automated reference implementation leveraging AWS Step Functions and Elastic Transcoder to deploy a scalable fault tolerant Video on demand workflow
-- [awslabs/aws-batch-genomics](https://github.com/awslabs/aws-batch-genomics) - Software sets up and runs an genome sequencing analysis workflow using AWS Batch and AWS Step Functions.
+- [awslabs/aws-batch-genomics](https://github.com/awslabs/aws-batch-genomics) - Software sets up and runs an genome sequencing analysis workflow using AWS Batch and AWS Step Functions
+- [Engaging your users with AWS Step Functions](https://cloudonaut.io/engaging-your-users-with-aws-step-functions/)
 
 #### Price
 #### Video
