@@ -753,6 +753,7 @@ A web service that simplifies establishing a dedicated network connection from y
 
 - [awslabs/aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates) - A collection of useful CloudFormation templates
 - [awslabs/golang-deployment-pipeline](https://github.com/awslabs/golang-deployment-pipeline) - Deployment Pipeline for Go Applications on AWS 
+- [widdix/aws-cf-templates](https://github.com/widdix/aws-cf-templates) - Free Templates for AWS CloudFormation http://templates.cloudonaut.io/
 
 #### Price
 #### Video
