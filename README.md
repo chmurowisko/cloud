@@ -794,6 +794,7 @@ A web service that simplifies establishing a dedicated network connection from y
 #### Tools + Repos + Labs
 
 - [Aceyhunozgun/serverlessAllergyChecker](https://github.com/ceyhunozgun/serverlessAllergyChecker) - [Allergy Checker with Amazon Rekognition, Lex, Polly, DynamoDB, S3 and Lambda](https://medium.com/@ceyhun.ozgun/serverless-allergy-checker-with-amazon-rekognition-lex-polly-dynamodb-s3-and-lambda-35fd215b51b0)
+- [RafalWilinski/serverless-medium-text-to-speech](https://github.com/RafalWilinski/serverless-medium-text-to-speech) - Serverless-based, text-to-speech service for Medium articles
 
 #### Price
 #### Video
