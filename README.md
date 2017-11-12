@@ -466,6 +466,9 @@ A web service that lets you run code without provisioning or managing servers. Y
 #### Similar Services
 #### Important Links
 #### Tools + Repos + Labs
+
+[bchew/dynamodump](https://github.com/bchew/dynamodump) - Simple backup and restore for Amazon DynamoDB using boto
+
 #### Price
 #### Video
 #### Important
