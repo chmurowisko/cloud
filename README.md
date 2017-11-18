@@ -155,6 +155,7 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. Azure Data Lake Store
 1. Azure Data Lake Analytics
 1. Azure Analysis Services
+1. Azure Databricks
 1. Power BI Embedded
 1. Azure Machine Learning Studio
 1. Azure Bot Service
@@ -1287,6 +1288,7 @@ An account management service that enables you to consolidate multiple AWS accou
 ### Azure Data Lake Store
 ### Azure Data Lake Analytics
 ### Azure Analysis Services
+### Azure Databricks
 ### Power BI Embedded
 
 ## A.I. & COGNITIVE SERVICES
