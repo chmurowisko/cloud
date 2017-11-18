@@ -169,6 +169,7 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. Azure Cognitive Services - Bing Video Search API
 1. Azure Cognitive Services - Bing Web Search API
 1. Azure Cognitive Services - Computer Vision API
+1. Azure Cognitive Services - Custom Vision Service
 1. Azure Cognitive Services - Content Moderator
 1. Azure Cognitive Services - Custom Speech Service
 1. Azure Cognitive Services - Emotion API
@@ -1305,6 +1306,7 @@ An account management service that enables you to consolidate multiple AWS accou
 ### Azure Cognitive Services - Bing Video Search API
 ### Azure Cognitive Services - Bing Web Search API
 ### Azure Cognitive Services - Computer Vision API
+### Azure Cognitive Services - Custom Vision Service
 ### Azure Cognitive Services - Content Moderator
 ### Azure Cognitive Services - Custom Speech Service
 ### Azure Cognitive Services - Emotion API
