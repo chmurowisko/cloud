@@ -272,7 +272,8 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 #### Important Links
 #### Tools + Repos + Labs
 
-- [awslabs/ec2-scheduler](https://github.com/awslabs/ec2-scheduler) - The EC2 Scheduler uses a recurring Lambda function to automatically start and stop EC2 instances based on either default schedule or custom schedule defined per EC2 instance.
+- [awslabs/ec2-scheduler](https://github.com/awslabs/ec2-scheduler) - The EC2 Scheduler uses a recurring Lambda function to automatically start and stop EC2 instances based on either default schedule or custom schedule defined per EC2 instance
+- [Multi-region Serverless Application](https://aws.amazon.com/blogs/compute/building-a-multi-region-serverless-application-with-amazon-api-gateway-and-aws-lambda/?sc_channel=sm&sc_campaign=Serverless&sc_publisher=TWITTER&sc_country=Global&sc_geo=GLOBAL&sc_outcome=awareness&trk=_TWITTER&sc_content=serverless_wkly_social&sc_category=AWS_Lambda&linkId=44735741) - Building a Multi-region Serverless Application with Amazon API Gateway and AWS Lambda
 
 #### Price
 #### Video
@@ -1018,6 +1019,9 @@ An account management service that enables you to consolidate multiple AWS accou
 #### Similar Services
 #### Important Links
 #### Tools + Repos + Labs
+
+- [Multi-region Serverless Application](https://aws.amazon.com/blogs/compute/building-a-multi-region-serverless-application-with-amazon-api-gateway-and-aws-lambda/?sc_channel=sm&sc_campaign=Serverless&sc_publisher=TWITTER&sc_country=Global&sc_geo=GLOBAL&sc_outcome=awareness&trk=_TWITTER&sc_content=serverless_wkly_social&sc_category=AWS_Lambda&linkId=44735741) - Building a Multi-region Serverless Application with Amazon API Gateway and AWS Lambda
+
 #### Price
 #### Video
 #### Important
