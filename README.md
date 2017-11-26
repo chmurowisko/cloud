@@ -193,7 +193,8 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. Azure Active Directory Domain Services
 1. Azure Key Vault
 1. Azure Active Directory B2C
-1. Security Center
+1. Azure Security Center
+1. Azure DevOps Project
 1. Visual Studio Team Services
 1. Azure DevTest Labs
 1. HockeyApp
@@ -1339,10 +1340,10 @@ An account management service that enables you to consolidate multiple AWS accou
 ### Azure Active Directory Domain Services
 ### Azure Key Vault
 ### Azure Active Directory B2C
-### Security Center
+### Azure Security Center
 
 ## DEVELOPER TOOLS
-
+### Azure DevOps Project
 ### Visual Studio Team Services
 ### Azure DevTest Labs
 ### HockeyApp
