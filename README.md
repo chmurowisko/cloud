@@ -14,20 +14,25 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. AWS Autoscaling
 1. [Amazon EC2 Container Registry](#amazon-ec2-container-registry)
 1. [Amazon EC2 Container Service](#amazon-ec2-container-service)
+1. Amazon Elastic Container Service for Kubernetes
+1. Amazon Fargate
 1. [Amazon Lightsail](#amazon-lightsail)
 1. [AWS Batch](#aws-batch)
 1. [AWS Elastic Beanstalk](#aws-elastic-beanstalk)
 1. [AWS Lambda](#aws-lambda)
+1. Amazon Time Sync Service
 1. Amazon Simple Storage Service (S3)
 1. Amazon Elastic Block Storage (EBS)
 1. Amazon Elastic File System (EFS)
 1. Amazon Glacier
 1. AWS Storage Gateway
 1. Amazon Aurora
+1. Amazon Aurora Serverless
 1. Amazon RDS
 1. Amazon SimpleDB	
 1. Amazon DynamoDB
 1. Amazon DynamoDB Accelerator (DAX)
+1. Amazon Neptune
 1. Amazon ElastiCache
 1. Amazon Redshift
 1. AWS Migration Hub
@@ -57,29 +62,40 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. AWS CloudTrail
 1. AWS Personal Health Dashboard
 1. AWS Config
-1. AWS OpsWorks Stacks	
-1. AWS OpsWorks for Chef Automate	
+1. AWS OpsWorks	
 1. AWS Service Catalog
 1. AWS Trusted Advisor
 1. AWS Personal Health Dashboard
 1. AWS Managed Services
 1. Amazon Lex
 1. Amazon Polly
+1. Amazon Transcribe
+1. Amazon Translate
+1. Amazon Comprehend
 1. Amazon Rekognition
+1. Amazon Rekognition Video
+1. AWS DeepLens
 1. Amazon Machine Learning
+1. Amazon SageMaker
 1. Amazon Athena
 1. Amazon EMR
 1. Amazon CloudSearch
 1. Amazon Elasticsearch Service
 1. Amazon Kinesis
+1. Amazon Kinesis Video Streams
 1. Amazon QuickSight
 1. AWS Data Pipeline
 1. AWS Glue
 1. AWS IoT Platform
+1. AWS IoT Device Management
+1. AWS IoT Device Defender
+1. AWS IoT Analytics
 1. AWS Greengrass
+1. Amazon FreeRTOS
 1. AWS Identity and Access Management (IAM)
 1. Amazon Cloud Directory
 1. Amazon Inspector
+1. Amazon GuardDuty
 1. Amazon Macie
 1. AWS Certificate Manager
 1. AWS CloudHSM
@@ -90,14 +106,21 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. AWS Artifact
 1. AWS Organizations
 1. AWS Mobile Hub
+1. AWS AppSync
 1. Amazon Cognito
 1. Amazon Pinpoint
 1. AWS Device Farm
 1. Amazon API Gateway
 1. Amazon Elastic Transcoder
+1. AWS Elemental MediaConvert
+1. AWS Elemental MediaLive
+1. AWS Elemental MediaPackage
+1. AWS Elemental MediaStore
+1. AWS Elemental MediaTailor
 1. Amazon Simple Workflow Service (SWF) 
 1. AWS Step Functions
 1. Amazon Simple Queue Service (SQS)
+1. Amazon MQ
 1. Amazon Simple Notification Service (SNS)
 1. Amazon Pinpoint
 1. Amazon Simple Email Service (SES)
@@ -108,6 +131,7 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. Amazon WorkSpaces
 1. Amazon AppStream 2.0
 1. Amazon GameLift
+1. Amazon Sumerian
 
 **SERVICES AZURE**
 
@@ -181,6 +205,7 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. Azure Cognitive Services - Translator Speech API
 1. Azure Cognitive Services - Translator Text API
 1. Azure Cognitive Services - Web Language Model API
+1. Azure Location Based Services
 1. Azure Batch AI
 1. Azure IoT Hub
 1. Azure IoT Edge
@@ -196,9 +221,11 @@ List of resources, tools, links around cloud computing topics - mainly AWS, Azur
 1. Azure Security Center
 1. Azure DevOps Project
 1. Visual Studio Team Services
+1. Visual Studio App Center
 1. Azure DevTest Labs
 1. HockeyApp
 1. Azure Advisor
+1. Azure Migrate
 1. Azure Site Recovery
 1. Azure Event Grid
 1. Azure Scheduler
